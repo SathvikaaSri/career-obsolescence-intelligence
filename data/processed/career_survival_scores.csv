@@ -1,0 +1,25 @@
+job_role,career_survival_score,survival_grade,survival_rank,upskill_urgency,demand_score,salary_score,resistance_score,skill_score,predicted_auto_risk,human_dependency_score,avg_demand_index,avg_skill_trend,growth_2025_to_2030_pct,pct_future_proof
+Statistician,81.82,A+ 🏆 Elite,1,✅ On Track,91.21,62.28,100.0,59.27,0.4569,54.31,148.1545,6.2936,25.35,0.1818
+AI Engineer,81.41,A+ 🏆 Elite,2,✅ On Track,83.41,76.04,74.59,100.0,0.5949,40.51,144.2231,7.1346,31.75,0.4615
+Data Engineer,78.57,A  🟢 Strong,3,✅ On Track,84.12,87.53,69.42,70.82,0.623,37.7,144.5778,6.5322,37.09,0.4444
+Business Analyst,68.28,A  🟢 Strong,4,✅ On Track,84.94,64.97,56.82,63.42,0.6914,30.86,144.9938,6.3794,26.6,0.25
+Data Scientist,66.13,A  🟢 Strong,5,✅ On Track,94.91,100.0,37.47,9.44,0.7965,20.35,150.025,5.265,42.89,0.0
+DevOps Engineer,65.19,A  🟢 Strong,6,✅ On Track,90.07,48.73,48.06,77.1,0.739,26.1,147.5818,6.6618,19.05,0.1818
+Machine Learning Engineer,62.83,B  🟡 Stable,7,✅ On Track,100.0,80.97,24.8,34.29,0.8653,13.47,152.59,5.778,34.04,0.3
+Operations Analyst,58.4,B  🟡 Stable,8,✅ On Track,72.2,66.62,26.86,80.15,0.8541,14.59,138.5667,6.7247,27.37,0.2
+Data Analyst,57.15,B  🟡 Stable,9,✅ On Track,74.28,75.66,29.09,48.17,0.842,15.8,139.6182,6.0645,31.57,0.0909
+Software Developer,56.83,B  🟡 Stable,10,✅ On Track,97.61,53.94,31.91,29.95,0.8267,17.33,151.3833,5.6883,21.47,0.0
+Cloud Architect,56.77,B  🟡 Stable,11,✅ On Track,74.38,56.73,28.76,77.63,0.8438,15.62,139.6667,6.6728,22.77,0.3333
+Content Strategist,56.76,B  🟡 Stable,12,✅ On Track,86.03,41.7,52.29,32.24,0.716,28.4,145.5444,5.7356,15.78,0.1111
+BI Developer,54.97,B  🟡 Stable,13,⚠️  Soon,91.08,36.58,45.26,32.84,0.7542,24.58,148.09,5.748,13.4,0.0
+Supply Chain Analyst,51.79,B  🟡 Stable,14,⚠️  Soon,71.87,51.08,33.57,49.27,0.8177,18.23,138.4,6.0873,20.14,0.1818
+Accountant,49.17,C  🟠 Vulnerable,15,⚠️  Soon,64.53,56.02,17.14,71.09,0.9069,9.31,134.7,6.5378,22.44,0.0
+Financial Analyst,42.61,C  🟠 Vulnerable,16,⚠️  Soon,55.4,54.65,17.07,48.03,0.9073,9.27,130.0917,6.0617,21.8,0.0833
+Digital Marketer,41.68,C  🟠 Vulnerable,17,⚠️  Soon,72.46,46.3,9.41,36.96,0.9489,5.11,138.7,5.8331,17.92,0.0769
+Product Manager,41.67,C  🟠 Vulnerable,18,⚠️  Soon,62.57,58.24,14.29,27.04,0.9224,7.76,133.7091,5.6282,23.47,0.1818
+SEO Specialist,39.29,C  🟠 Vulnerable,19,⚠️  Soon,83.86,44.99,0.0,19.23,1.0,0.0,144.45,5.467,17.31,0.05
+HR Analyst,31.35,D  🔴 At Risk,20,🚨 Urgent,62.93,27.14,7.77,22.35,0.9578,4.22,133.8923,5.5315,9.01,0.0769
+SQL Developer,30.34,D  🔴 At Risk,21,🚨 Urgent,17.21,90.06,8.86,0.0,0.9519,4.81,110.8286,5.07,38.27,0.1429
+IT Support Specialist,15.53,F  💀 Endangered,22,🚨 Urgent,0.0,26.13,5.97,48.03,0.9676,3.24,102.15,6.0617,8.54,0.0
+QA Engineer,10.67,F  💀 Endangered,23,🚨 Urgent,4.59,18.54,9.43,12.2,0.9488,5.12,104.4636,5.3218,5.01,0.0
+Excel Analyst,9.56,F  💀 Endangered,24,🚨 Urgent,17.87,0.0,3.66,20.68,0.9801,1.99,111.1625,5.4969,-3.61,0.0

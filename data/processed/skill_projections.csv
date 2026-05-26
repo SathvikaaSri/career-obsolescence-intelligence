@@ -1,0 +1,281 @@
+skill,year,trend_score,job_postings_count,type,skill_tier
+A/B Testing,2019,7.95,778,historical,📈 Rising
+A/B Testing,2020,7.72,853,historical,📈 Rising
+A/B Testing,2021,8.21,920,historical,📈 Rising
+A/B Testing,2022,8.34,1015,historical,📈 Rising
+A/B Testing,2023,8.25,964,historical,📈 Rising
+A/B Testing,2024,8.02,1171,historical,📈 Rising
+A/B Testing,2025,8.08,1198,historical,📈 Rising
+A/B Testing,2026,8.24,1267,projected,📈 Rising
+A/B Testing,2027,8.27,1336,projected,📈 Rising
+A/B Testing,2028,8.31,1405,projected,📈 Rising
+Airflow,2019,8.32,796,historical,📈 Rising
+Airflow,2020,8.3,907,historical,📈 Rising
+Airflow,2021,8.17,965,historical,📈 Rising
+Airflow,2022,8.57,1115,historical,📈 Rising
+Airflow,2023,8.61,1093,historical,📈 Rising
+Airflow,2024,8.7,1181,historical,📈 Rising
+Airflow,2025,8.44,1185,historical,📈 Rising
+Airflow,2026,8.67,1250,projected,📈 Rising
+Airflow,2027,8.72,1316,projected,📈 Rising
+Airflow,2028,8.78,1382,projected,📈 Rising
+Basic SEO,2019,3.14,403,historical,📉 Declining
+Basic SEO,2020,2.86,193,historical,📉 Declining
+Basic SEO,2021,2.87,311,historical,📉 Declining
+Basic SEO,2022,2.58,310,historical,📉 Declining
+Basic SEO,2023,2.66,414,historical,📉 Declining
+Basic SEO,2024,2.03,339,historical,📉 Declining
+Basic SEO,2025,2.84,423,historical,📉 Declining
+Basic SEO,2026,2.31,439,projected,📉 Declining
+Basic SEO,2027,2.21,455,projected,📉 Declining
+Basic SEO,2028,2.11,471,projected,📉 Declining
+COBOL,2019,1.48,96,historical,💀 Obsolete
+COBOL,2020,1.04,149,historical,💀 Obsolete
+COBOL,2021,0.96,99,historical,💀 Obsolete
+COBOL,2022,1.36,91,historical,💀 Obsolete
+COBOL,2023,0.5,10,historical,💀 Obsolete
+COBOL,2024,1.09,208,historical,💀 Obsolete
+COBOL,2025,0.77,148,historical,💀 Obsolete
+COBOL,2026,0.67,154,projected,💀 Obsolete
+COBOL,2027,0.58,161,projected,💀 Obsolete
+COBOL,2028,0.5,167,projected,💀 Obsolete
+Cloud (AWS/GCP),2019,9.22,904,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2020,9.11,963,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2021,8.92,1111,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2022,8.93,1064,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2023,9.7,1331,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2024,9.58,1383,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2025,9.26,1445,historical,🚀 Skyrocketing
+Cloud (AWS/GCP),2026,9.5,1540,projected,🚀 Skyrocketing
+Cloud (AWS/GCP),2027,9.57,1636,projected,🚀 Skyrocketing
+Cloud (AWS/GCP),2028,9.63,1732,projected,🚀 Skyrocketing
+Cold Calling,2019,2.07,184,historical,💀 Obsolete
+Cold Calling,2020,1.82,194,historical,💀 Obsolete
+Cold Calling,2021,1.85,208,historical,💀 Obsolete
+Cold Calling,2022,1.84,219,historical,💀 Obsolete
+Cold Calling,2023,1.76,236,historical,💀 Obsolete
+Cold Calling,2024,1.01,205,historical,💀 Obsolete
+Cold Calling,2025,1.07,122,historical,💀 Obsolete
+Cold Calling,2026,0.97,117,projected,💀 Obsolete
+Cold Calling,2027,0.8,112,projected,💀 Obsolete
+Cold Calling,2028,0.63,107,projected,💀 Obsolete
+Copy-Paste Reporting,2019,1.09,112,historical,💀 Obsolete
+Copy-Paste Reporting,2020,1.09,45,historical,💀 Obsolete
+Copy-Paste Reporting,2021,0.62,65,historical,💀 Obsolete
+Copy-Paste Reporting,2022,0.52,127,historical,💀 Obsolete
+Copy-Paste Reporting,2023,0.67,17,historical,💀 Obsolete
+Copy-Paste Reporting,2024,0.5,107,historical,💀 Obsolete
+Copy-Paste Reporting,2025,0.5,73,historical,💀 Obsolete
+Copy-Paste Reporting,2026,0.5,71,projected,💀 Obsolete
+Copy-Paste Reporting,2027,0.5,70,projected,💀 Obsolete
+Copy-Paste Reporting,2028,0.5,68,projected,💀 Obsolete
+Crystal Reports,2019,1.79,180,historical,📉 Declining
+Crystal Reports,2020,1.64,237,historical,📉 Declining
+Crystal Reports,2021,1.64,220,historical,📉 Declining
+Crystal Reports,2022,1.47,218,historical,📉 Declining
+Crystal Reports,2023,1.98,234,historical,📉 Declining
+Crystal Reports,2024,1.58,215,historical,📉 Declining
+Crystal Reports,2025,1.92,283,historical,📉 Declining
+Crystal Reports,2026,1.81,292,projected,📉 Declining
+Crystal Reports,2027,1.83,302,projected,📉 Declining
+Crystal Reports,2028,1.86,312,projected,📉 Declining
+Data Entry,2019,1.51,160,historical,📉 Declining
+Data Entry,2020,1.47,209,historical,📉 Declining
+Data Entry,2021,1.28,117,historical,📉 Declining
+Data Entry,2022,1.21,184,historical,📉 Declining
+Data Entry,2023,0.96,110,historical,📉 Declining
+Data Entry,2024,1.28,252,historical,📉 Declining
+Data Entry,2025,1.2,199,historical,📉 Declining
+Data Entry,2026,1.05,206,projected,📉 Declining
+Data Entry,2027,0.99,213,projected,📉 Declining
+Data Entry,2028,0.93,220,projected,📉 Declining
+Deep Learning,2019,8.9,860,historical,🚀 Skyrocketing
+Deep Learning,2020,8.92,942,historical,🚀 Skyrocketing
+Deep Learning,2021,9.24,1027,historical,🚀 Skyrocketing
+Deep Learning,2022,9.29,1155,historical,🚀 Skyrocketing
+Deep Learning,2023,9.77,1204,historical,🚀 Skyrocketing
+Deep Learning,2024,9.59,1383,historical,🚀 Skyrocketing
+Deep Learning,2025,9.27,1432,historical,🚀 Skyrocketing
+Deep Learning,2026,9.71,1531,projected,🚀 Skyrocketing
+Deep Learning,2027,9.82,1630,projected,🚀 Skyrocketing
+Deep Learning,2028,9.92,1729,projected,🚀 Skyrocketing
+Excel (Basic),2019,3.76,391,historical,💀 Obsolete
+Excel (Basic),2020,3.45,262,historical,💀 Obsolete
+Excel (Basic),2021,3.6,350,historical,💀 Obsolete
+Excel (Basic),2022,2.99,354,historical,💀 Obsolete
+Excel (Basic),2023,2.88,418,historical,💀 Obsolete
+Excel (Basic),2024,3.11,450,historical,💀 Obsolete
+Excel (Basic),2025,2.61,393,historical,💀 Obsolete
+Excel (Basic),2026,2.52,409,projected,💀 Obsolete
+Excel (Basic),2027,2.34,425,projected,💀 Obsolete
+Excel (Basic),2028,2.17,441,projected,💀 Obsolete
+Kubernetes,2019,8.15,771,historical,🚀 Skyrocketing
+Kubernetes,2020,8.05,817,historical,🚀 Skyrocketing
+Kubernetes,2021,8.42,934,historical,🚀 Skyrocketing
+Kubernetes,2022,8.06,982,historical,🚀 Skyrocketing
+Kubernetes,2023,8.39,1114,historical,🚀 Skyrocketing
+Kubernetes,2024,8.49,1199,historical,🚀 Skyrocketing
+Kubernetes,2025,9.06,1301,historical,🚀 Skyrocketing
+Kubernetes,2026,8.89,1391,projected,🚀 Skyrocketing
+Kubernetes,2027,9.02,1482,projected,🚀 Skyrocketing
+Kubernetes,2028,9.15,1572,projected,🚀 Skyrocketing
+LLMs/GenAI,2019,9.86,910,historical,🚀 Skyrocketing
+LLMs/GenAI,2020,9.87,1088,historical,🚀 Skyrocketing
+LLMs/GenAI,2021,10.0,1121,historical,🚀 Skyrocketing
+LLMs/GenAI,2022,10.0,1195,historical,🚀 Skyrocketing
+LLMs/GenAI,2023,9.99,1385,historical,🚀 Skyrocketing
+LLMs/GenAI,2024,10.0,1416,historical,🚀 Skyrocketing
+LLMs/GenAI,2025,10.0,1486,historical,🚀 Skyrocketing
+LLMs/GenAI,2026,10.0,1580,projected,🚀 Skyrocketing
+LLMs/GenAI,2027,10.0,1675,projected,🚀 Skyrocketing
+LLMs/GenAI,2028,10.0,1769,projected,🚀 Skyrocketing
+Legacy VBA,2019,1.88,221,historical,💀 Obsolete
+Legacy VBA,2020,1.78,135,historical,💀 Obsolete
+Legacy VBA,2021,1.84,184,historical,💀 Obsolete
+Legacy VBA,2022,1.48,111,historical,💀 Obsolete
+Legacy VBA,2023,1.8,293,historical,💀 Obsolete
+Legacy VBA,2024,1.21,218,historical,💀 Obsolete
+Legacy VBA,2025,1.46,258,historical,💀 Obsolete
+Legacy VBA,2026,1.29,271,projected,💀 Obsolete
+Legacy VBA,2027,1.21,285,projected,💀 Obsolete
+Legacy VBA,2028,1.12,299,projected,💀 Obsolete
+MLOps,2019,8.95,892,historical,🚀 Skyrocketing
+MLOps,2020,9.01,1007,historical,🚀 Skyrocketing
+MLOps,2021,9.02,1035,historical,🚀 Skyrocketing
+MLOps,2022,9.32,1137,historical,🚀 Skyrocketing
+MLOps,2023,9.18,1224,historical,🚀 Skyrocketing
+MLOps,2024,9.34,1263,historical,🚀 Skyrocketing
+MLOps,2025,9.44,1353,historical,🚀 Skyrocketing
+MLOps,2026,9.52,1427,projected,🚀 Skyrocketing
+MLOps,2027,9.6,1501,projected,🚀 Skyrocketing
+MLOps,2028,9.68,1576,projected,🚀 Skyrocketing
+MS Access,2019,2.16,281,historical,📉 Declining
+MS Access,2020,2.08,154,historical,📉 Declining
+MS Access,2021,1.82,242,historical,📉 Declining
+MS Access,2022,2.28,288,historical,📉 Declining
+MS Access,2023,2.16,217,historical,📉 Declining
+MS Access,2024,2.06,273,historical,📉 Declining
+MS Access,2025,1.42,214,historical,📉 Declining
+MS Access,2026,1.73,214,projected,📉 Declining
+MS Access,2027,1.66,214,projected,📉 Declining
+MS Access,2028,1.59,215,projected,📉 Declining
+Machine Learning,2019,9.55,911,historical,📈 Rising
+Machine Learning,2020,9.86,1074,historical,📈 Rising
+Machine Learning,2021,9.64,1166,historical,📈 Rising
+Machine Learning,2022,9.83,1238,historical,📈 Rising
+Machine Learning,2023,9.6,1253,historical,📈 Rising
+Machine Learning,2024,9.33,1312,historical,📈 Rising
+Machine Learning,2025,9.75,1367,historical,📈 Rising
+Machine Learning,2026,9.57,1435,projected,📈 Rising
+Machine Learning,2027,9.56,1504,projected,📈 Rising
+Machine Learning,2028,9.54,1573,projected,📈 Rising
+Manual Testing,2019,2.81,329,historical,📉 Declining
+Manual Testing,2020,2.89,336,historical,📉 Declining
+Manual Testing,2021,2.4,315,historical,📉 Declining
+Manual Testing,2022,2.33,234,historical,📉 Declining
+Manual Testing,2023,2.72,363,historical,📉 Declining
+Manual Testing,2024,2.89,395,historical,📉 Declining
+Manual Testing,2025,2.03,303,historical,📉 Declining
+Manual Testing,2026,2.3,306,projected,📉 Declining
+Manual Testing,2027,2.23,309,projected,📉 Declining
+Manual Testing,2028,2.15,312,projected,📉 Declining
+Power BI,2019,7.63,860,historical,📈 Rising
+Power BI,2020,7.83,808,historical,📈 Rising
+Power BI,2021,8.04,990,historical,📈 Rising
+Power BI,2022,7.92,1046,historical,📈 Rising
+Power BI,2023,8.18,1025,historical,📈 Rising
+Power BI,2024,7.7,1125,historical,📈 Rising
+Power BI,2025,8.09,1189,historical,📈 Rising
+Power BI,2026,8.09,1248,projected,📈 Rising
+Power BI,2027,8.14,1307,projected,📈 Rising
+Power BI,2028,8.18,1366,projected,📈 Rising
+Prompt Engineering,2019,9.42,1016,historical,🚀 Skyrocketing
+Prompt Engineering,2020,9.21,921,historical,🚀 Skyrocketing
+Prompt Engineering,2021,9.35,1057,historical,🚀 Skyrocketing
+Prompt Engineering,2022,9.66,1199,historical,🚀 Skyrocketing
+Prompt Engineering,2023,9.19,1155,historical,🚀 Skyrocketing
+Prompt Engineering,2024,9.93,1361,historical,🚀 Skyrocketing
+Prompt Engineering,2025,9.93,1517,historical,🚀 Skyrocketing
+Prompt Engineering,2026,9.93,1605,projected,🚀 Skyrocketing
+Prompt Engineering,2027,10.0,1694,projected,🚀 Skyrocketing
+Prompt Engineering,2028,10.0,1782,projected,🚀 Skyrocketing
+Python,2019,9.09,877,historical,📈 Rising
+Python,2020,9.24,970,historical,📈 Rising
+Python,2021,9.3,1120,historical,📈 Rising
+Python,2022,9.58,1108,historical,📈 Rising
+Python,2023,9.73,1242,historical,📈 Rising
+Python,2024,8.95,1275,historical,📈 Rising
+Python,2025,9.0,1386,historical,📈 Rising
+Python,2026,9.21,1466,projected,📈 Rising
+Python,2027,9.2,1547,projected,📈 Rising
+Python,2028,9.18,1628,projected,📈 Rising
+R,2019,6.42,660,historical,➡️  Stable
+R,2020,6.44,648,historical,➡️  Stable
+R,2021,6.92,849,historical,➡️  Stable
+R,2022,6.39,817,historical,➡️  Stable
+R,2023,6.81,931,historical,➡️  Stable
+R,2024,6.81,1003,historical,➡️  Stable
+R,2025,6.15,892,historical,➡️  Stable
+R,2026,6.53,945,projected,➡️  Stable
+R,2027,6.53,998,projected,➡️  Stable
+R,2028,6.52,1051,projected,➡️  Stable
+SQL,2019,7.48,769,historical,🚀 Skyrocketing
+SQL,2020,7.53,819,historical,🚀 Skyrocketing
+SQL,2021,7.5,803,historical,🚀 Skyrocketing
+SQL,2022,7.93,970,historical,🚀 Skyrocketing
+SQL,2023,7.62,945,historical,🚀 Skyrocketing
+SQL,2024,7.47,1089,historical,🚀 Skyrocketing
+SQL,2025,8.33,1217,historical,🚀 Skyrocketing
+SQL,2026,8.06,1289,projected,🚀 Skyrocketing
+SQL,2027,8.15,1361,projected,🚀 Skyrocketing
+SQL,2028,8.24,1434,projected,🚀 Skyrocketing
+Spark/PySpark,2019,8.71,922,historical,🚀 Skyrocketing
+Spark/PySpark,2020,8.94,995,historical,🚀 Skyrocketing
+Spark/PySpark,2021,8.62,1036,historical,🚀 Skyrocketing
+Spark/PySpark,2022,8.79,1209,historical,🚀 Skyrocketing
+Spark/PySpark,2023,9.17,1196,historical,🚀 Skyrocketing
+Spark/PySpark,2024,8.96,1309,historical,🚀 Skyrocketing
+Spark/PySpark,2025,9.3,1351,historical,🚀 Skyrocketing
+Spark/PySpark,2026,9.27,1425,projected,🚀 Skyrocketing
+Spark/PySpark,2027,9.36,1499,projected,🚀 Skyrocketing
+Spark/PySpark,2028,9.44,1573,projected,🚀 Skyrocketing
+Statistics,2019,7.5,756,historical,🚀 Skyrocketing
+Statistics,2020,7.5,744,historical,🚀 Skyrocketing
+Statistics,2021,7.57,796,historical,🚀 Skyrocketing
+Statistics,2022,7.83,911,historical,🚀 Skyrocketing
+Statistics,2023,7.41,1046,historical,🚀 Skyrocketing
+Statistics,2024,8.18,1143,historical,🚀 Skyrocketing
+Statistics,2025,7.74,1239,historical,🚀 Skyrocketing
+Statistics,2026,7.95,1328,projected,🚀 Skyrocketing
+Statistics,2027,8.02,1417,projected,🚀 Skyrocketing
+Statistics,2028,8.08,1506,projected,🚀 Skyrocketing
+Tableau,2019,7.46,722,historical,📈 Rising
+Tableau,2020,7.58,800,historical,📈 Rising
+Tableau,2021,7.66,833,historical,📈 Rising
+Tableau,2022,7.8,1060,historical,📈 Rising
+Tableau,2023,7.53,1073,historical,📈 Rising
+Tableau,2024,7.49,1055,historical,📈 Rising
+Tableau,2025,8.25,1188,historical,📈 Rising
+Tableau,2026,7.97,1264,projected,📈 Rising
+Tableau,2027,8.05,1341,projected,📈 Rising
+Tableau,2028,8.12,1418,projected,📈 Rising
+Vector Databases,2019,9.17,939,historical,📈 Rising
+Vector Databases,2020,9.21,948,historical,📈 Rising
+Vector Databases,2021,9.09,976,historical,📈 Rising
+Vector Databases,2022,9.49,1220,historical,📈 Rising
+Vector Databases,2023,9.41,1165,historical,📈 Rising
+Vector Databases,2024,9.37,1281,historical,📈 Rising
+Vector Databases,2025,9.22,1356,historical,📈 Rising
+Vector Databases,2026,9.38,1431,projected,📈 Rising
+Vector Databases,2027,9.41,1506,projected,📈 Rising
+Vector Databases,2028,9.44,1581,projected,📈 Rising
+dbt,2019,8.49,832,historical,🚀 Skyrocketing
+dbt,2020,8.56,847,historical,🚀 Skyrocketing
+dbt,2021,8.71,1008,historical,🚀 Skyrocketing
+dbt,2022,8.56,1066,historical,🚀 Skyrocketing
+dbt,2023,8.8,1118,historical,🚀 Skyrocketing
+dbt,2024,9.05,1303,historical,🚀 Skyrocketing
+dbt,2025,8.71,1293,historical,🚀 Skyrocketing
+dbt,2026,8.95,1378,projected,🚀 Skyrocketing
+dbt,2027,9.01,1464,projected,🚀 Skyrocketing
+dbt,2028,9.08,1550,projected,🚀 Skyrocketing

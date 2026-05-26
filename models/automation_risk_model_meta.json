@@ -1,0 +1,36 @@
+{
+  "model_type": "GradientBoosting",
+  "feature_cols": [
+    "year",
+    "experience_ord",
+    "role_encoded",
+    "num_skills",
+    "skill_count",
+    "avg_skill_trend_score",
+    "demand_index",
+    "salary_cagr_5yr",
+    "future_proof"
+  ],
+  "metrics": {
+    "GradientBoosting": {
+      "mae": 0.0631,
+      "rmse": 0.0944,
+      "r2": 0.9177,
+      "cv_mae": 0.0617
+    },
+    "RandomForest": {
+      "mae": 0.0638,
+      "rmse": 0.1031,
+      "r2": 0.9018,
+      "cv_mae": 0.063
+    },
+    "Ridge": {
+      "mae": 0.1012,
+      "rmse": 0.1314,
+      "r2": 0.8406,
+      "cv_mae": 0.1082
+    }
+  },
+  "best_model": "GradientBoosting",
+  "version": "1.0"
+}

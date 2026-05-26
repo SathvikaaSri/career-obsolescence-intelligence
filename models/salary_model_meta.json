@@ -1,0 +1,22 @@
+{
+  "model_type": "GradientBoostingRegressor",
+  "feature_cols": [
+    "year",
+    "experience_ord",
+    "role_encoded",
+    "num_skills",
+    "avg_skill_trend_score",
+    "demand_index",
+    "automation_risk",
+    "salary_cagr_5yr",
+    "future_proof"
+  ],
+  "metrics": {
+    "mae": 12274.68,
+    "rmse": 16076.49,
+    "r2": 0.9568,
+    "cv_mae": 12384.05
+  },
+  "target": "salary_usd",
+  "version": "1.0"
+}

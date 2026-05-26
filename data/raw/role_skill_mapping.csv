@@ -1,0 +1,109 @@
+job_role,skill,trend_score,salary_boost_usd,automation_risk_impact,category
+Data Analyst,SQL,7.5,8000,-0.05,Rising
+Data Analyst,Python,9.2,18000,-0.15,Rising
+Data Analyst,Power BI,7.8,9000,-0.04,Rising
+Data Analyst,Tableau,7.6,9500,-0.04,Rising
+Data Analyst,Statistics,7.4,11000,-0.06,Rising
+Data Analyst,Excel (Basic),3.5,2000,0.3,Declining
+Business Analyst,SQL,7.5,8000,-0.05,Rising
+Business Analyst,Power BI,7.8,9000,-0.04,Rising
+Business Analyst,Statistics,7.4,11000,-0.06,Rising
+Business Analyst,Excel (Basic),3.5,2000,0.3,Declining
+Business Analyst,A/B Testing,7.9,13000,-0.07,Rising
+Data Scientist,Python,9.2,18000,-0.15,Rising
+Data Scientist,Machine Learning,9.5,25000,-0.2,Rising
+Data Scientist,Statistics,7.4,11000,-0.06,Rising
+Data Scientist,SQL,7.5,8000,-0.05,Rising
+Data Scientist,Deep Learning,9.1,28000,-0.18,Rising
+Data Scientist,A/B Testing,7.9,13000,-0.07,Rising
+Machine Learning Engineer,Python,9.2,18000,-0.15,Rising
+Machine Learning Engineer,Machine Learning,9.5,25000,-0.2,Rising
+Machine Learning Engineer,Deep Learning,9.1,28000,-0.18,Rising
+Machine Learning Engineer,MLOps,9.0,24000,-0.17,Rising
+Machine Learning Engineer,Cloud (AWS/GCP),9.0,22000,-0.12,Rising
+Machine Learning Engineer,Spark/PySpark,8.7,20000,-0.1,Rising
+Data Engineer,Python,9.2,18000,-0.15,Rising
+Data Engineer,SQL,7.5,8000,-0.05,Rising
+Data Engineer,Spark/PySpark,8.7,20000,-0.1,Rising
+Data Engineer,Airflow,8.3,14000,-0.07,Rising
+Data Engineer,dbt,8.5,15000,-0.08,Rising
+Data Engineer,Cloud (AWS/GCP),9.0,22000,-0.12,Rising
+BI Developer,Power BI,7.8,9000,-0.04,Rising
+BI Developer,Tableau,7.6,9500,-0.04,Rising
+BI Developer,SQL,7.5,8000,-0.05,Rising
+BI Developer,Statistics,7.4,11000,-0.06,Rising
+BI Developer,dbt,8.5,15000,-0.08,Rising
+SQL Developer,SQL,7.5,8000,-0.05,Rising
+SQL Developer,MS Access,2.2,1000,0.5,Declining
+SQL Developer,Crystal Reports,1.8,500,0.55,Declining
+SQL Developer,Legacy VBA,2.0,500,0.6,Declining
+Excel Analyst,Excel (Basic),3.5,2000,0.3,Declining
+Excel Analyst,Legacy VBA,2.0,500,0.6,Declining
+Excel Analyst,MS Access,2.2,1000,0.5,Declining
+Excel Analyst,Crystal Reports,1.8,500,0.55,Declining
+Statistician,Statistics,7.4,11000,-0.06,Rising
+Statistician,R,6.5,7000,-0.03,Stable
+Statistician,Python,9.2,18000,-0.15,Rising
+Statistician,A/B Testing,7.9,13000,-0.07,Rising
+AI Engineer,Python,9.2,18000,-0.15,Rising
+AI Engineer,Deep Learning,9.1,28000,-0.18,Rising
+AI Engineer,LLMs/GenAI,9.8,30000,-0.22,Rising
+AI Engineer,Machine Learning,9.5,25000,-0.2,Rising
+AI Engineer,Prompt Engineering,9.3,21000,-0.18,Rising
+AI Engineer,MLOps,9.0,24000,-0.17,Rising
+AI Engineer,Vector Databases,9.1,22000,-0.16,Rising
+Cloud Architect,Cloud (AWS/GCP),9.0,22000,-0.12,Rising
+Cloud Architect,Kubernetes,8.1,19000,-0.09,Rising
+Cloud Architect,Python,9.2,18000,-0.15,Rising
+DevOps Engineer,Kubernetes,8.1,19000,-0.09,Rising
+DevOps Engineer,Cloud (AWS/GCP),9.0,22000,-0.12,Rising
+DevOps Engineer,Python,9.2,18000,-0.15,Rising
+DevOps Engineer,Airflow,8.3,14000,-0.07,Rising
+Software Developer,Python,9.2,18000,-0.15,Rising
+Software Developer,SQL,7.5,8000,-0.05,Rising
+Software Developer,Cloud (AWS/GCP),9.0,22000,-0.12,Rising
+Software Developer,Kubernetes,8.1,19000,-0.09,Rising
+QA Engineer,Manual Testing,2.8,1000,0.45,Declining
+QA Engineer,Python,9.2,18000,-0.15,Rising
+QA Engineer,SQL,7.5,8000,-0.05,Rising
+IT Support Specialist,MS Access,2.2,1000,0.5,Declining
+IT Support Specialist,Legacy VBA,2.0,500,0.6,Declining
+IT Support Specialist,Excel (Basic),3.5,2000,0.3,Declining
+IT Support Specialist,Cold Calling,2.0,0,0.65,Declining
+Digital Marketer,Basic SEO,3.0,1500,0.55,Declining
+Digital Marketer,Cold Calling,2.0,0,0.65,Declining
+Digital Marketer,A/B Testing,7.9,13000,-0.07,Rising
+Digital Marketer,Statistics,7.4,11000,-0.06,Rising
+Content Strategist,Basic SEO,3.0,1500,0.55,Declining
+Content Strategist,Cold Calling,2.0,0,0.65,Declining
+Content Strategist,Prompt Engineering,9.3,21000,-0.18,Rising
+SEO Specialist,Basic SEO,3.0,1500,0.55,Declining
+SEO Specialist,Statistics,7.4,11000,-0.06,Rising
+SEO Specialist,A/B Testing,7.9,13000,-0.07,Rising
+Financial Analyst,Excel (Basic),3.5,2000,0.3,Declining
+Financial Analyst,SQL,7.5,8000,-0.05,Rising
+Financial Analyst,Statistics,7.4,11000,-0.06,Rising
+Financial Analyst,Python,9.2,18000,-0.15,Rising
+Financial Analyst,Power BI,7.8,9000,-0.04,Rising
+Accountant,Excel (Basic),3.5,2000,0.3,Declining
+Accountant,Legacy VBA,2.0,500,0.6,Declining
+Accountant,MS Access,2.2,1000,0.5,Declining
+Accountant,Copy-Paste Reporting,1.0,0,0.9,Declining
+HR Analyst,Excel (Basic),3.5,2000,0.3,Declining
+HR Analyst,SQL,7.5,8000,-0.05,Rising
+HR Analyst,Statistics,7.4,11000,-0.06,Rising
+HR Analyst,Power BI,7.8,9000,-0.04,Rising
+Supply Chain Analyst,SQL,7.5,8000,-0.05,Rising
+Supply Chain Analyst,Python,9.2,18000,-0.15,Rising
+Supply Chain Analyst,Statistics,7.4,11000,-0.06,Rising
+Supply Chain Analyst,Excel (Basic),3.5,2000,0.3,Declining
+Supply Chain Analyst,Power BI,7.8,9000,-0.04,Rising
+Operations Analyst,SQL,7.5,8000,-0.05,Rising
+Operations Analyst,Excel (Basic),3.5,2000,0.3,Declining
+Operations Analyst,Statistics,7.4,11000,-0.06,Rising
+Operations Analyst,Power BI,7.8,9000,-0.04,Rising
+Product Manager,SQL,7.5,8000,-0.05,Rising
+Product Manager,A/B Testing,7.9,13000,-0.07,Rising
+Product Manager,Statistics,7.4,11000,-0.06,Rising
+Product Manager,Python,9.2,18000,-0.15,Rising
+Product Manager,LLMs/GenAI,9.8,30000,-0.22,Rising

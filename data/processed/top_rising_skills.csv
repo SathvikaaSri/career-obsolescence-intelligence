@@ -1,0 +1,11 @@
+skill,composite_trend_score,trend_slope,trend_score_2025,trend_score_2026_proj,skill_tier
+Deep Learning,94.23,0.10643,9.27,9.71,🚀 Skyrocketing
+Kubernetes,92.34,0.12786,9.06,8.89,🚀 Skyrocketing
+Prompt Engineering,92.23,0.10036,9.93,9.93,🚀 Skyrocketing
+Cloud (AWS/GCP),87.38,0.06571,9.26,9.51,🚀 Skyrocketing
+MLOps,85.41,0.08179,9.44,9.51,🚀 Skyrocketing
+Spark/PySpark,84.77,0.08429,9.3,9.26,🚀 Skyrocketing
+LLMs/GenAI,83.59,0.02393,10.0,10.0,🚀 Skyrocketing
+dbt,82.8,0.06179,8.71,8.94,🚀 Skyrocketing
+SQL,80.78,0.09107,8.33,8.06,🚀 Skyrocketing
+Statistics,80.58,0.06857,7.74,7.95,🚀 Skyrocketing

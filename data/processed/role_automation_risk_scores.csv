@@ -1,0 +1,121 @@
+job_role,experience_level,predicted_auto_risk,risk_tier,human_dependency_score
+AI Engineer,Entry,0.8293,💀 Critical Risk,17.07
+AI Engineer,Lead,0.7058,🔴 High Risk,29.42
+AI Engineer,Mid,0.6579,🔴 High Risk,34.21
+AI Engineer,Principal,0.3716,🟡 Low Risk,62.84
+AI Engineer,Senior,0.5949,🟠 Moderate Risk,40.51
+Accountant,Entry,1.0,💀 Critical Risk,0.0
+Accountant,Lead,0.9603,💀 Critical Risk,3.97
+Accountant,Mid,0.9958,💀 Critical Risk,0.42
+Accountant,Principal,0.9839,💀 Critical Risk,1.61
+Accountant,Senior,0.9069,💀 Critical Risk,9.31
+BI Developer,Entry,0.9323,💀 Critical Risk,6.77
+BI Developer,Lead,0.9492,💀 Critical Risk,5.08
+BI Developer,Mid,0.8559,💀 Critical Risk,14.41
+BI Developer,Principal,0.939,💀 Critical Risk,6.1
+BI Developer,Senior,0.7542,🔴 High Risk,24.58
+Business Analyst,Entry,0.9627,💀 Critical Risk,3.73
+Business Analyst,Lead,0.9099,💀 Critical Risk,9.01
+Business Analyst,Mid,0.8646,💀 Critical Risk,13.54
+Business Analyst,Principal,0.6473,🔴 High Risk,35.27
+Business Analyst,Senior,0.6914,🔴 High Risk,30.86
+Cloud Architect,Entry,0.6953,🔴 High Risk,30.47
+Cloud Architect,Lead,0.5843,🟠 Moderate Risk,41.57
+Cloud Architect,Mid,0.6162,🔴 High Risk,38.38
+Cloud Architect,Principal,0.8289,💀 Critical Risk,17.11
+Cloud Architect,Senior,0.8438,💀 Critical Risk,15.62
+Content Strategist,Entry,0.9639,💀 Critical Risk,3.61
+Content Strategist,Lead,0.9457,💀 Critical Risk,5.43
+Content Strategist,Mid,0.7873,🔴 High Risk,21.27
+Content Strategist,Principal,0.9144,💀 Critical Risk,8.56
+Content Strategist,Senior,0.716,🔴 High Risk,28.4
+Data Analyst,Entry,0.7894,🔴 High Risk,21.06
+Data Analyst,Lead,0.9643,💀 Critical Risk,3.57
+Data Analyst,Mid,0.8127,💀 Critical Risk,18.73
+Data Analyst,Principal,0.8452,💀 Critical Risk,15.48
+Data Analyst,Senior,0.842,💀 Critical Risk,15.8
+Data Engineer,Entry,0.6961,🔴 High Risk,30.39
+Data Engineer,Lead,0.8481,💀 Critical Risk,15.19
+Data Engineer,Mid,0.6462,🔴 High Risk,35.38
+Data Engineer,Principal,0.5604,🟠 Moderate Risk,43.96
+Data Engineer,Senior,0.623,🔴 High Risk,37.7
+Data Scientist,Entry,0.8963,💀 Critical Risk,10.37
+Data Scientist,Lead,0.8424,💀 Critical Risk,15.76
+Data Scientist,Mid,0.6652,🔴 High Risk,33.48
+Data Scientist,Principal,0.5122,🟠 Moderate Risk,48.78
+Data Scientist,Senior,0.7965,🔴 High Risk,20.35
+DevOps Engineer,Entry,0.8613,💀 Critical Risk,13.87
+DevOps Engineer,Lead,0.8031,💀 Critical Risk,19.69
+DevOps Engineer,Mid,0.5726,🟠 Moderate Risk,42.74
+DevOps Engineer,Principal,0.8331,💀 Critical Risk,16.69
+DevOps Engineer,Senior,0.739,🔴 High Risk,26.1
+Digital Marketer,Entry,0.9701,💀 Critical Risk,2.99
+Digital Marketer,Lead,0.8595,💀 Critical Risk,14.05
+Digital Marketer,Mid,0.9161,💀 Critical Risk,8.39
+Digital Marketer,Principal,0.7546,🔴 High Risk,24.54
+Digital Marketer,Senior,0.9489,💀 Critical Risk,5.11
+Excel Analyst,Entry,0.9893,💀 Critical Risk,1.07
+Excel Analyst,Lead,0.9876,💀 Critical Risk,1.24
+Excel Analyst,Mid,0.9926,💀 Critical Risk,0.74
+Excel Analyst,Principal,0.9518,💀 Critical Risk,4.82
+Excel Analyst,Senior,0.9801,💀 Critical Risk,1.99
+Financial Analyst,Entry,0.9356,💀 Critical Risk,6.44
+Financial Analyst,Lead,0.9774,💀 Critical Risk,2.26
+Financial Analyst,Mid,0.7237,🔴 High Risk,27.63
+Financial Analyst,Principal,0.9292,💀 Critical Risk,7.08
+Financial Analyst,Senior,0.9073,💀 Critical Risk,9.27
+HR Analyst,Entry,0.9025,💀 Critical Risk,9.75
+HR Analyst,Lead,0.9822,💀 Critical Risk,1.78
+HR Analyst,Mid,0.9263,💀 Critical Risk,7.37
+HR Analyst,Principal,0.7637,🔴 High Risk,23.63
+HR Analyst,Senior,0.9578,💀 Critical Risk,4.22
+IT Support Specialist,Entry,0.9912,💀 Critical Risk,0.88
+IT Support Specialist,Lead,0.9727,💀 Critical Risk,2.73
+IT Support Specialist,Mid,0.9003,💀 Critical Risk,9.97
+IT Support Specialist,Principal,0.8492,💀 Critical Risk,15.08
+IT Support Specialist,Senior,0.9676,💀 Critical Risk,3.24
+Machine Learning Engineer,Entry,0.286,🟡 Low Risk,71.4
+Machine Learning Engineer,Lead,0.7308,🔴 High Risk,26.92
+Machine Learning Engineer,Mid,0.9037,💀 Critical Risk,9.63
+Machine Learning Engineer,Principal,0.9213,💀 Critical Risk,7.87
+Machine Learning Engineer,Senior,0.8653,💀 Critical Risk,13.47
+Operations Analyst,Entry,0.7405,🔴 High Risk,25.95
+Operations Analyst,Lead,0.8456,💀 Critical Risk,15.44
+Operations Analyst,Mid,0.8823,💀 Critical Risk,11.77
+Operations Analyst,Principal,0.8921,💀 Critical Risk,10.79
+Operations Analyst,Senior,0.8541,💀 Critical Risk,14.59
+Product Manager,Entry,0.8987,💀 Critical Risk,10.13
+Product Manager,Lead,0.6187,🔴 High Risk,38.13
+Product Manager,Mid,0.4804,🟠 Moderate Risk,51.96
+Product Manager,Principal,0.9482,💀 Critical Risk,5.18
+Product Manager,Senior,0.9224,💀 Critical Risk,7.76
+QA Engineer,Entry,0.961,💀 Critical Risk,3.9
+QA Engineer,Lead,0.9716,💀 Critical Risk,2.84
+QA Engineer,Mid,0.9652,💀 Critical Risk,3.48
+QA Engineer,Principal,0.8134,💀 Critical Risk,18.66
+QA Engineer,Senior,0.9488,💀 Critical Risk,5.12
+SEO Specialist,Entry,1.0,💀 Critical Risk,0.0
+SEO Specialist,Lead,0.9932,💀 Critical Risk,0.68
+SEO Specialist,Mid,1.0,💀 Critical Risk,0.0
+SEO Specialist,Principal,1.0,💀 Critical Risk,0.0
+SEO Specialist,Senior,1.0,💀 Critical Risk,0.0
+SQL Developer,Entry,0.7568,🔴 High Risk,24.32
+SQL Developer,Lead,0.8863,💀 Critical Risk,11.37
+SQL Developer,Mid,0.9886,💀 Critical Risk,1.14
+SQL Developer,Principal,0.9659,💀 Critical Risk,3.41
+SQL Developer,Senior,0.9519,💀 Critical Risk,4.81
+Software Developer,Entry,0.9605,💀 Critical Risk,3.95
+Software Developer,Lead,0.698,🔴 High Risk,30.2
+Software Developer,Mid,0.5546,🟠 Moderate Risk,44.54
+Software Developer,Principal,0.8941,💀 Critical Risk,10.59
+Software Developer,Senior,0.8267,💀 Critical Risk,17.33
+Statistician,Entry,0.6568,🔴 High Risk,34.32
+Statistician,Lead,0.7249,🔴 High Risk,27.51
+Statistician,Mid,0.9758,💀 Critical Risk,2.42
+Statistician,Principal,0.8506,💀 Critical Risk,14.94
+Statistician,Senior,0.4569,🟠 Moderate Risk,54.31
+Supply Chain Analyst,Entry,0.9176,💀 Critical Risk,8.24
+Supply Chain Analyst,Lead,0.8919,💀 Critical Risk,10.81
+Supply Chain Analyst,Mid,0.7398,🔴 High Risk,26.02
+Supply Chain Analyst,Principal,0.7532,🔴 High Risk,24.68
+Supply Chain Analyst,Senior,0.8177,💀 Critical Risk,18.23

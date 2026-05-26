@@ -1,0 +1,197 @@
+skill,year,trend_score,job_postings_count,category,postings_yoy_pct,trend_score_3yr_avg,trend_velocity,velocity_label,postings_normalized
+A/B Testing,2019,7.95,778,Rising,,7.95,0.0368,Stable,74.13
+A/B Testing,2020,7.72,853,Rising,0.0964,7.835,0.0368,Stable,77.47
+A/B Testing,2021,8.21,920,Rising,0.0785,7.96,0.0368,Stable,77.66
+A/B Testing,2022,8.34,1015,Rising,0.1033,8.09,0.0368,Stable,80.56
+A/B Testing,2023,8.25,964,Rising,-0.0502,8.267,0.0368,Stable,69.38
+A/B Testing,2024,8.02,1171,Rising,0.2147,8.203,0.0368,Stable,81.28
+A/B Testing,2025,8.08,1198,Rising,0.0231,8.117,0.0368,Stable,77.91
+Airflow,2019,8.32,796,Rising,,8.32,0.0571,Rising,76.09
+Airflow,2020,8.3,907,Rising,0.1394,8.31,0.0571,Rising,82.65
+Airflow,2021,8.17,965,Rising,0.0639,8.263,0.0571,Rising,81.74
+Airflow,2022,8.57,1115,Rising,0.1554,8.347,0.0571,Rising,89.28
+Airflow,2023,8.61,1093,Rising,-0.0197,8.45,0.0571,Rising,78.76
+Airflow,2024,8.7,1181,Rising,0.0805,8.627,0.0571,Rising,82.05
+Airflow,2025,8.44,1185,Rising,0.0034,8.583,0.0571,Rising,77.01
+Basic SEO,2019,3.14,403,Declining,,3.14,-0.0989,Declining,33.37
+Basic SEO,2020,2.86,193,Declining,-0.5211,3.0,-0.0989,Declining,14.19
+Basic SEO,2021,2.87,311,Declining,0.6114,2.957,-0.0989,Declining,22.34
+Basic SEO,2022,2.58,310,Declining,-0.0032,2.77,-0.0989,Declining,19.09
+Basic SEO,2023,2.66,414,Declining,0.3355,2.703,-0.0989,Declining,29.38
+Basic SEO,2024,2.03,339,Declining,-0.1812,2.423,-0.0989,Declining,17.72
+Basic SEO,2025,2.84,423,Declining,0.2478,2.51,-0.0989,Declining,24.24
+COBOL,2019,1.48,96,Declining,,1.48,-0.0889,Declining,0.0
+COBOL,2020,1.04,149,Declining,0.5521,1.26,-0.0889,Declining,9.97
+COBOL,2021,0.96,99,Declining,-0.3356,1.16,-0.0889,Declining,3.09
+COBOL,2022,1.36,91,Declining,-0.0808,1.12,-0.0889,Declining,0.0
+COBOL,2023,0.5,10,Declining,-0.8901,0.94,-0.0889,Declining,0.0
+COBOL,2024,1.09,208,Declining,19.8,0.983,-0.0889,Declining,7.72
+COBOL,2025,0.77,148,Declining,-0.2885,0.787,-0.0889,Declining,5.19
+Cloud (AWS/GCP),2019,9.22,904,Rising,,9.22,0.0657,Rising,87.83
+Cloud (AWS/GCP),2020,9.11,963,Rising,0.0653,9.165,0.0657,Rising,88.02
+Cloud (AWS/GCP),2021,8.92,1111,Rising,0.1537,9.083,0.0657,Rising,95.0
+Cloud (AWS/GCP),2022,8.93,1064,Rising,-0.0423,8.987,0.0657,Rising,84.83
+Cloud (AWS/GCP),2023,9.7,1331,Rising,0.2509,9.183,0.0657,Rising,96.07
+Cloud (AWS/GCP),2024,9.58,1383,Rising,0.0391,9.403,0.0657,Rising,97.48
+Cloud (AWS/GCP),2025,9.26,1445,Rising,0.0448,9.513,0.0657,Rising,95.01
+Cold Calling,2019,2.07,184,Declining,,2.07,-0.1682,Declining,9.57
+Cold Calling,2020,1.82,194,Declining,0.0543,1.945,-0.1682,Declining,14.29
+Cold Calling,2021,1.85,208,Declining,0.0722,1.913,-0.1682,Declining,12.99
+Cold Calling,2022,1.84,219,Declining,0.0529,1.837,-0.1682,Declining,11.16
+Cold Calling,2023,1.76,236,Declining,0.0776,1.817,-0.1682,Declining,16.44
+Cold Calling,2024,1.01,205,Declining,-0.1314,1.537,-0.1682,Declining,7.49
+Cold Calling,2025,1.07,122,Declining,-0.4049,1.28,-0.1682,Declining,3.39
+Copy-Paste Reporting,2019,1.09,112,Declining,,1.09,-0.1036,Declining,1.74
+Copy-Paste Reporting,2020,1.09,45,Declining,-0.5982,1.09,-0.1036,Declining,0.0
+Copy-Paste Reporting,2021,0.62,65,Declining,0.4444,0.933,-0.1036,Declining,0.0
+Copy-Paste Reporting,2022,0.52,127,Declining,0.9538,0.743,-0.1036,Declining,3.14
+Copy-Paste Reporting,2023,0.67,17,Declining,-0.8661,0.603,-0.1036,Declining,0.51
+Copy-Paste Reporting,2024,0.5,107,Declining,5.2941,0.563,-0.1036,Declining,0.0
+Copy-Paste Reporting,2025,0.5,73,Declining,-0.3178,0.557,-0.1036,Declining,0.0
+Crystal Reports,2019,1.79,180,Declining,,1.79,0.0218,Stable,9.13
+Crystal Reports,2020,1.64,237,Declining,0.3167,1.715,0.0218,Stable,18.41
+Crystal Reports,2021,1.64,220,Declining,-0.0717,1.69,0.0218,Stable,14.08
+Crystal Reports,2022,1.47,218,Declining,-0.0091,1.583,0.0218,Stable,11.07
+Crystal Reports,2023,1.98,234,Declining,0.0734,1.697,0.0218,Stable,16.29
+Crystal Reports,2024,1.58,215,Declining,-0.0812,1.677,0.0218,Stable,8.25
+Crystal Reports,2025,1.92,283,Declining,0.3163,1.827,0.0218,Stable,14.54
+Data Entry,2019,1.51,160,Declining,,1.51,-0.0582,Declining,6.96
+Data Entry,2020,1.47,209,Declining,0.3062,1.49,-0.0582,Declining,15.72
+Data Entry,2021,1.28,117,Declining,-0.4402,1.42,-0.0582,Declining,4.72
+Data Entry,2022,1.21,184,Declining,0.5726,1.32,-0.0582,Declining,8.11
+Data Entry,2023,0.96,110,Declining,-0.4022,1.15,-0.0582,Declining,7.27
+Data Entry,2024,1.28,252,Declining,1.2909,1.15,-0.0582,Declining,11.08
+Data Entry,2025,1.2,199,Declining,-0.2103,1.147,-0.0582,Declining,8.73
+Deep Learning,2019,8.9,860,Rising,,8.9,0.1064,Rising,83.04
+Deep Learning,2020,8.92,942,Rising,0.0953,8.91,0.1064,Rising,86.0
+Deep Learning,2021,9.24,1027,Rising,0.0902,9.02,0.1064,Rising,87.38
+Deep Learning,2022,9.29,1155,Rising,0.1246,9.15,0.1064,Rising,92.76
+Deep Learning,2023,9.77,1204,Rising,0.0424,9.433,0.1064,Rising,86.84
+Deep Learning,2024,9.59,1383,Rising,0.1487,9.55,0.1064,Rising,97.48
+Deep Learning,2025,9.27,1432,Rising,0.0354,9.543,0.1064,Rising,94.11
+Excel (Basic),2019,3.76,391,Declining,,3.76,-0.1732,Declining,32.07
+Excel (Basic),2020,3.45,262,Declining,-0.3299,3.605,-0.1732,Declining,20.81
+Excel (Basic),2021,3.6,350,Declining,0.3359,3.603,-0.1732,Declining,25.89
+Excel (Basic),2022,2.99,354,Declining,0.0114,3.347,-0.1732,Declining,22.93
+Excel (Basic),2023,2.88,418,Declining,0.1808,3.157,-0.1732,Declining,29.67
+Excel (Basic),2024,3.11,450,Declining,0.0766,2.993,-0.1732,Declining,26.2
+Excel (Basic),2025,2.61,393,Declining,-0.1267,2.867,-0.1732,Declining,22.16
+Kubernetes,2019,8.15,771,Rising,,8.15,0.1279,Rising,73.37
+Kubernetes,2020,8.05,817,Rising,0.0597,8.1,0.1279,Rising,74.02
+Kubernetes,2021,8.42,934,Rising,0.1432,8.207,0.1279,Rising,78.93
+Kubernetes,2022,8.06,982,Rising,0.0514,8.177,0.1279,Rising,77.68
+Kubernetes,2023,8.39,1114,Rising,0.1344,8.29,0.1279,Rising,80.29
+Kubernetes,2024,8.49,1199,Rising,0.0763,8.313,0.1279,Rising,83.42
+Kubernetes,2025,9.06,1301,Rising,0.0851,8.647,0.1279,Rising,85.04
+LLMs/GenAI,2019,9.86,910,Rising,,9.86,0.0239,Stable,88.48
+LLMs/GenAI,2020,9.87,1088,Rising,0.1956,9.865,0.0239,Stable,100.0
+LLMs/GenAI,2021,10.0,1121,Rising,0.0303,9.91,0.0239,Stable,95.91
+LLMs/GenAI,2022,10.0,1195,Rising,0.066,9.957,0.0239,Stable,96.25
+LLMs/GenAI,2023,9.99,1385,Rising,0.159,9.997,0.0239,Stable,100.0
+LLMs/GenAI,2024,10.0,1416,Rising,0.0224,9.997,0.0239,Stable,100.0
+LLMs/GenAI,2025,10.0,1486,Rising,0.0494,9.997,0.0239,Stable,97.85
+Legacy VBA,2019,1.88,221,Declining,,1.88,-0.0871,Declining,13.59
+Legacy VBA,2020,1.78,135,Declining,-0.3891,1.83,-0.0871,Declining,8.63
+Legacy VBA,2021,1.84,184,Declining,0.363,1.833,-0.0871,Declining,10.81
+Legacy VBA,2022,1.48,111,Declining,-0.3967,1.7,-0.0871,Declining,1.74
+Legacy VBA,2023,1.8,293,Declining,1.6396,1.707,-0.0871,Declining,20.58
+Legacy VBA,2024,1.21,218,Declining,-0.256,1.497,-0.0871,Declining,8.48
+Legacy VBA,2025,1.46,258,Declining,0.1835,1.49,-0.0871,Declining,12.81
+MLOps,2019,8.95,892,Rising,,8.95,0.0818,Rising,86.52
+MLOps,2020,9.01,1007,Rising,0.1289,8.98,0.0818,Rising,92.23
+MLOps,2021,9.02,1035,Rising,0.0278,8.993,0.0818,Rising,88.1
+MLOps,2022,9.32,1137,Rising,0.0986,9.117,0.0818,Rising,91.19
+MLOps,2023,9.18,1224,Rising,0.0765,9.173,0.0818,Rising,88.29
+MLOps,2024,9.34,1263,Rising,0.0319,9.28,0.0818,Rising,88.31
+MLOps,2025,9.44,1353,Rising,0.0713,9.32,0.0818,Rising,88.64
+MS Access,2019,2.16,281,Declining,,2.16,-0.0686,Declining,20.11
+MS Access,2020,2.08,154,Declining,-0.452,2.12,-0.0686,Declining,10.45
+MS Access,2021,1.82,242,Declining,0.5714,2.02,-0.0686,Declining,16.08
+MS Access,2022,2.28,288,Declining,0.1901,2.06,-0.0686,Declining,17.18
+MS Access,2023,2.16,217,Declining,-0.2465,2.087,-0.0686,Declining,15.05
+MS Access,2024,2.06,273,Declining,0.2581,2.167,-0.0686,Declining,12.68
+MS Access,2025,1.42,214,Declining,-0.2161,1.88,-0.0686,Declining,9.76
+Machine Learning,2019,9.55,911,Rising,,9.55,-0.0179,Stable,88.59
+Machine Learning,2020,9.86,1074,Rising,0.1789,9.705,-0.0179,Stable,98.66
+Machine Learning,2021,9.64,1166,Rising,0.0857,9.683,-0.0179,Stable,100.0
+Machine Learning,2022,9.83,1238,Rising,0.0617,9.777,-0.0179,Stable,100.0
+Machine Learning,2023,9.6,1253,Rising,0.0121,9.69,-0.0179,Stable,90.4
+Machine Learning,2024,9.33,1312,Rising,0.0471,9.587,-0.0179,Stable,92.06
+Machine Learning,2025,9.75,1367,Rising,0.0419,9.56,-0.0179,Stable,89.61
+Manual Testing,2019,2.81,329,Declining,,2.81,-0.0721,Declining,25.33
+Manual Testing,2020,2.89,336,Declining,0.0213,2.85,-0.0721,Declining,27.9
+Manual Testing,2021,2.4,315,Declining,-0.0625,2.7,-0.0721,Declining,22.71
+Manual Testing,2022,2.33,234,Declining,-0.2571,2.54,-0.0721,Declining,12.47
+Manual Testing,2023,2.72,363,Declining,0.5513,2.483,-0.0721,Declining,25.67
+Manual Testing,2024,2.89,395,Declining,0.0882,2.647,-0.0721,Declining,22.0
+Manual Testing,2025,2.03,303,Declining,-0.2329,2.547,-0.0721,Declining,15.93
+Power BI,2019,7.63,860,Rising,,7.63,0.045,Stable,83.04
+Power BI,2020,7.83,808,Rising,-0.0605,7.73,0.045,Stable,73.15
+Power BI,2021,8.04,990,Rising,0.2252,7.833,0.045,Stable,84.01
+Power BI,2022,7.92,1046,Rising,0.0566,7.93,0.045,Stable,83.26
+Power BI,2023,8.18,1025,Rising,-0.0201,8.047,0.045,Stable,73.82
+Power BI,2024,7.7,1125,Rising,0.0976,7.933,0.045,Stable,77.77
+Power BI,2025,8.09,1189,Rising,0.0569,7.99,0.045,Stable,77.29
+Prompt Engineering,2019,9.42,1016,Rising,,9.42,0.1004,Rising,100.0
+Prompt Engineering,2020,9.21,921,Rising,-0.0935,9.315,0.1004,Rising,83.99
+Prompt Engineering,2021,9.35,1057,Rising,0.1477,9.327,0.1004,Rising,90.1
+Prompt Engineering,2022,9.66,1199,Rising,0.1343,9.407,0.1004,Rising,96.6
+Prompt Engineering,2023,9.19,1155,Rising,-0.0367,9.4,0.1004,Rising,83.27
+Prompt Engineering,2024,9.93,1361,Rising,0.1784,9.593,0.1004,Rising,95.8
+Prompt Engineering,2025,9.93,1517,Rising,0.1146,9.683,0.1004,Rising,100.0
+Python,2019,9.09,877,Rising,,9.09,-0.015,Stable,84.89
+Python,2020,9.24,970,Rising,0.106,9.165,-0.015,Stable,88.69
+Python,2021,9.3,1120,Rising,0.1546,9.21,-0.015,Stable,95.82
+Python,2022,9.58,1108,Rising,-0.0107,9.373,-0.015,Stable,88.67
+Python,2023,9.73,1242,Rising,0.1209,9.537,-0.015,Stable,89.6
+Python,2024,8.95,1275,Rising,0.0266,9.42,-0.015,Stable,89.23
+Python,2025,9.0,1386,Rising,0.0871,9.227,-0.015,Stable,90.93
+R,2019,6.42,660,Stable,,6.42,-0.0064,Stable,61.3
+R,2020,6.44,648,Stable,-0.0182,6.43,-0.0064,Stable,57.81
+R,2021,6.92,849,Stable,0.3102,6.593,-0.0064,Stable,71.21
+R,2022,6.39,817,Stable,-0.0377,6.583,-0.0064,Stable,63.3
+R,2023,6.81,931,Stable,0.1395,6.707,-0.0064,Stable,66.98
+R,2024,6.81,1003,Stable,0.0773,6.67,-0.0064,Stable,68.45
+R,2025,6.15,892,Stable,-0.1107,6.59,-0.0064,Stable,56.72
+SQL,2019,7.48,769,Rising,,7.48,0.0911,Rising,73.15
+SQL,2020,7.53,819,Rising,0.065,7.505,0.0911,Rising,74.21
+SQL,2021,7.5,803,Rising,-0.0195,7.503,0.0911,Rising,67.03
+SQL,2022,7.93,970,Rising,0.208,7.653,0.0911,Rising,76.63
+SQL,2023,7.62,945,Rising,-0.0258,7.683,0.0911,Rising,68.0
+SQL,2024,7.47,1089,Rising,0.1524,7.673,0.0911,Rising,75.02
+SQL,2025,8.33,1217,Rising,0.1175,7.807,0.0911,Rising,79.22
+Spark/PySpark,2019,8.71,922,Rising,,8.71,0.0843,Rising,89.78
+Spark/PySpark,2020,8.94,995,Rising,0.0792,8.825,0.0843,Rising,91.08
+Spark/PySpark,2021,8.62,1036,Rising,0.0412,8.757,0.0843,Rising,88.19
+Spark/PySpark,2022,8.79,1209,Rising,0.167,8.783,0.0843,Rising,97.47
+Spark/PySpark,2023,9.17,1196,Rising,-0.0108,8.86,0.0843,Rising,86.25
+Spark/PySpark,2024,8.96,1309,Rising,0.0945,8.973,0.0843,Rising,91.83
+Spark/PySpark,2025,9.3,1351,Rising,0.0321,9.143,0.0843,Rising,88.5
+Statistics,2019,7.5,756,Rising,,7.5,0.0686,Rising,71.74
+Statistics,2020,7.5,744,Rising,-0.0159,7.5,0.0686,Rising,67.02
+Statistics,2021,7.57,796,Rising,0.0699,7.523,0.0686,Rising,66.39
+Statistics,2022,7.83,911,Rising,0.1445,7.633,0.0686,Rising,71.49
+Statistics,2023,7.41,1046,Rising,0.1482,7.603,0.0686,Rising,75.35
+Statistics,2024,8.18,1143,Rising,0.0927,7.807,0.0686,Rising,79.14
+Statistics,2025,7.74,1239,Rising,0.084,7.777,0.0686,Rising,80.75
+Tableau,2019,7.46,722,Rising,,7.46,0.0736,Rising,68.04
+Tableau,2020,7.58,800,Rising,0.108,7.52,0.0736,Rising,72.39
+Tableau,2021,7.66,833,Rising,0.0413,7.567,0.0736,Rising,69.75
+Tableau,2022,7.8,1060,Rising,0.2725,7.68,0.0736,Rising,84.48
+Tableau,2023,7.53,1073,Rising,0.0123,7.663,0.0736,Rising,77.31
+Tableau,2024,7.49,1055,Rising,-0.0168,7.607,0.0736,Rising,72.42
+Tableau,2025,8.25,1188,Rising,0.1261,7.757,0.0736,Rising,77.22
+Vector Databases,2019,9.17,939,Rising,,9.17,0.0282,Stable,91.63
+Vector Databases,2020,9.21,948,Rising,0.0096,9.19,0.0282,Stable,86.58
+Vector Databases,2021,9.09,976,Rising,0.0295,9.157,0.0282,Stable,82.74
+Vector Databases,2022,9.49,1220,Rising,0.25,9.263,0.0282,Stable,98.43
+Vector Databases,2023,9.41,1165,Rising,-0.0451,9.33,0.0282,Stable,84.0
+Vector Databases,2024,9.37,1281,Rising,0.0996,9.423,0.0282,Stable,89.69
+Vector Databases,2025,9.22,1356,Rising,0.0585,9.333,0.0282,Stable,88.85
+dbt,2019,8.49,832,Rising,,8.49,0.0618,Rising,80.0
+dbt,2020,8.56,847,Rising,0.018,8.525,0.0618,Rising,76.89
+dbt,2021,8.71,1008,Rising,0.1901,8.587,0.0618,Rising,85.65
+dbt,2022,8.56,1066,Rising,0.0575,8.61,0.0618,Rising,85.0
+dbt,2023,8.8,1118,Rising,0.0488,8.69,0.0618,Rising,80.58
+dbt,2024,9.05,1303,Rising,0.1655,8.803,0.0618,Rising,91.37
+dbt,2025,8.71,1293,Rising,-0.0077,8.853,0.0618,Rising,84.49

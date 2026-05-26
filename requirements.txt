@@ -1,0 +1,33 @@
+# ============================================================
+# Career Obsolescence Intelligence System
+# Requirements File
+# ============================================================
+
+# Core Data
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# Visualization
+plotly==5.22.0
+
+# Dashboard
+streamlit==1.35.0
+
+# Utilities
+faker==24.11.0
+tqdm==4.66.4
+
+# Optional: Web scraping
+beautifulsoup4==4.12.3
+requests==2.32.2
+
+# Database (optional — using CSV by default)
+# psycopg2-binary==2.9.9
+
+# Notebook support (optional)
+jupyter==1.0.0
+ipykernel==6.29.4

@@ -1,0 +1,197 @@
+skill,year,trend_score,job_postings_count,category
+Python,2019,9.09,877,Rising
+Python,2020,9.24,970,Rising
+Python,2021,9.3,1120,Rising
+Python,2022,9.58,1108,Rising
+Python,2023,9.73,1242,Rising
+Python,2024,8.95,1275,Rising
+Python,2025,9.0,1386,Rising
+Machine Learning,2019,9.55,911,Rising
+Machine Learning,2020,9.86,1074,Rising
+Machine Learning,2021,9.64,1166,Rising
+Machine Learning,2022,9.83,1238,Rising
+Machine Learning,2023,9.6,1253,Rising
+Machine Learning,2024,9.33,1312,Rising
+Machine Learning,2025,9.75,1367,Rising
+Deep Learning,2019,8.9,860,Rising
+Deep Learning,2020,8.92,942,Rising
+Deep Learning,2021,9.24,1027,Rising
+Deep Learning,2022,9.29,1155,Rising
+Deep Learning,2023,9.77,1204,Rising
+Deep Learning,2024,9.59,1383,Rising
+Deep Learning,2025,9.27,1432,Rising
+Cloud (AWS/GCP),2019,9.22,904,Rising
+Cloud (AWS/GCP),2020,9.11,963,Rising
+Cloud (AWS/GCP),2021,8.92,1111,Rising
+Cloud (AWS/GCP),2022,8.93,1064,Rising
+Cloud (AWS/GCP),2023,9.7,1331,Rising
+Cloud (AWS/GCP),2024,9.58,1383,Rising
+Cloud (AWS/GCP),2025,9.26,1445,Rising
+Spark/PySpark,2019,8.71,922,Rising
+Spark/PySpark,2020,8.94,995,Rising
+Spark/PySpark,2021,8.62,1036,Rising
+Spark/PySpark,2022,8.79,1209,Rising
+Spark/PySpark,2023,9.17,1196,Rising
+Spark/PySpark,2024,8.96,1309,Rising
+Spark/PySpark,2025,9.3,1351,Rising
+LLMs/GenAI,2019,9.86,910,Rising
+LLMs/GenAI,2020,9.87,1088,Rising
+LLMs/GenAI,2021,10.0,1121,Rising
+LLMs/GenAI,2022,10.0,1195,Rising
+LLMs/GenAI,2023,9.99,1385,Rising
+LLMs/GenAI,2024,10.0,1416,Rising
+LLMs/GenAI,2025,10.0,1486,Rising
+dbt,2019,8.49,832,Rising
+dbt,2020,8.56,847,Rising
+dbt,2021,8.71,1008,Rising
+dbt,2022,8.56,1066,Rising
+dbt,2023,8.8,1118,Rising
+dbt,2024,9.05,1303,Rising
+dbt,2025,8.71,1293,Rising
+Airflow,2019,8.32,796,Rising
+Airflow,2020,8.3,907,Rising
+Airflow,2021,8.17,965,Rising
+Airflow,2022,8.57,1115,Rising
+Airflow,2023,8.61,1093,Rising
+Airflow,2024,8.7,1181,Rising
+Airflow,2025,8.44,1185,Rising
+Kubernetes,2019,8.15,771,Rising
+Kubernetes,2020,8.05,817,Rising
+Kubernetes,2021,8.42,934,Rising
+Kubernetes,2022,8.06,982,Rising
+Kubernetes,2023,8.39,1114,Rising
+Kubernetes,2024,8.49,1199,Rising
+Kubernetes,2025,9.06,1301,Rising
+Prompt Engineering,2019,9.42,1016,Rising
+Prompt Engineering,2020,9.21,921,Rising
+Prompt Engineering,2021,9.35,1057,Rising
+Prompt Engineering,2022,9.66,1199,Rising
+Prompt Engineering,2023,9.19,1155,Rising
+Prompt Engineering,2024,9.93,1361,Rising
+Prompt Engineering,2025,9.93,1517,Rising
+MLOps,2019,8.95,892,Rising
+MLOps,2020,9.01,1007,Rising
+MLOps,2021,9.02,1035,Rising
+MLOps,2022,9.32,1137,Rising
+MLOps,2023,9.18,1224,Rising
+MLOps,2024,9.34,1263,Rising
+MLOps,2025,9.44,1353,Rising
+Vector Databases,2019,9.17,939,Rising
+Vector Databases,2020,9.21,948,Rising
+Vector Databases,2021,9.09,976,Rising
+Vector Databases,2022,9.49,1220,Rising
+Vector Databases,2023,9.41,1165,Rising
+Vector Databases,2024,9.37,1281,Rising
+Vector Databases,2025,9.22,1356,Rising
+SQL,2019,7.48,769,Rising
+SQL,2020,7.53,819,Rising
+SQL,2021,7.5,803,Rising
+SQL,2022,7.93,970,Rising
+SQL,2023,7.62,945,Rising
+SQL,2024,7.47,1089,Rising
+SQL,2025,8.33,1217,Rising
+Power BI,2019,7.63,860,Rising
+Power BI,2020,7.83,808,Rising
+Power BI,2021,8.04,990,Rising
+Power BI,2022,7.92,1046,Rising
+Power BI,2023,8.18,1025,Rising
+Power BI,2024,7.7,1125,Rising
+Power BI,2025,8.09,1189,Rising
+Tableau,2019,7.46,722,Rising
+Tableau,2020,7.58,800,Rising
+Tableau,2021,7.66,833,Rising
+Tableau,2022,7.8,1060,Rising
+Tableau,2023,7.53,1073,Rising
+Tableau,2024,7.49,1055,Rising
+Tableau,2025,8.25,1188,Rising
+Statistics,2019,7.5,756,Rising
+Statistics,2020,7.5,744,Rising
+Statistics,2021,7.57,796,Rising
+Statistics,2022,7.83,911,Rising
+Statistics,2023,7.41,1046,Rising
+Statistics,2024,8.18,1143,Rising
+Statistics,2025,7.74,1239,Rising
+A/B Testing,2019,7.95,778,Rising
+A/B Testing,2020,7.72,853,Rising
+A/B Testing,2021,8.21,920,Rising
+A/B Testing,2022,8.34,1015,Rising
+A/B Testing,2023,8.25,964,Rising
+A/B Testing,2024,8.02,1171,Rising
+A/B Testing,2025,8.08,1198,Rising
+R,2019,6.42,660,Stable
+R,2020,6.44,648,Stable
+R,2021,6.92,849,Stable
+R,2022,6.39,817,Stable
+R,2023,6.81,931,Stable
+R,2024,6.81,1003,Stable
+R,2025,6.15,892,Stable
+Excel (Basic),2019,3.76,391,Declining
+Excel (Basic),2020,3.45,262,Declining
+Excel (Basic),2021,3.6,350,Declining
+Excel (Basic),2022,2.99,354,Declining
+Excel (Basic),2023,2.88,418,Declining
+Excel (Basic),2024,3.11,450,Declining
+Excel (Basic),2025,2.61,393,Declining
+Manual Testing,2019,2.81,329,Declining
+Manual Testing,2020,2.89,336,Declining
+Manual Testing,2021,2.4,315,Declining
+Manual Testing,2022,2.33,234,Declining
+Manual Testing,2023,2.72,363,Declining
+Manual Testing,2024,2.89,395,Declining
+Manual Testing,2025,2.03,303,Declining
+Data Entry,2019,1.51,160,Declining
+Data Entry,2020,1.47,209,Declining
+Data Entry,2021,1.28,117,Declining
+Data Entry,2022,1.21,184,Declining
+Data Entry,2023,0.96,110,Declining
+Data Entry,2024,1.28,252,Declining
+Data Entry,2025,1.2,199,Declining
+Legacy VBA,2019,1.88,221,Declining
+Legacy VBA,2020,1.78,135,Declining
+Legacy VBA,2021,1.84,184,Declining
+Legacy VBA,2022,1.48,111,Declining
+Legacy VBA,2023,1.8,293,Declining
+Legacy VBA,2024,1.21,218,Declining
+Legacy VBA,2025,1.46,258,Declining
+Crystal Reports,2019,1.79,180,Declining
+Crystal Reports,2020,1.64,237,Declining
+Crystal Reports,2021,1.64,220,Declining
+Crystal Reports,2022,1.47,218,Declining
+Crystal Reports,2023,1.98,234,Declining
+Crystal Reports,2024,1.58,215,Declining
+Crystal Reports,2025,1.92,283,Declining
+MS Access,2019,2.16,281,Declining
+MS Access,2020,2.08,154,Declining
+MS Access,2021,1.82,242,Declining
+MS Access,2022,2.28,288,Declining
+MS Access,2023,2.16,217,Declining
+MS Access,2024,2.06,273,Declining
+MS Access,2025,1.42,214,Declining
+Cold Calling,2019,2.07,184,Declining
+Cold Calling,2020,1.82,194,Declining
+Cold Calling,2021,1.85,208,Declining
+Cold Calling,2022,1.84,219,Declining
+Cold Calling,2023,1.76,236,Declining
+Cold Calling,2024,1.01,205,Declining
+Cold Calling,2025,1.07,122,Declining
+COBOL,2019,1.48,96,Declining
+COBOL,2020,1.04,149,Declining
+COBOL,2021,0.96,99,Declining
+COBOL,2022,1.36,91,Declining
+COBOL,2023,0.5,10,Declining
+COBOL,2024,1.09,208,Declining
+COBOL,2025,0.77,148,Declining
+Basic SEO,2019,3.14,403,Declining
+Basic SEO,2020,2.86,193,Declining
+Basic SEO,2021,2.87,311,Declining
+Basic SEO,2022,2.58,310,Declining
+Basic SEO,2023,2.66,414,Declining
+Basic SEO,2024,2.03,339,Declining
+Basic SEO,2025,2.84,423,Declining
+Copy-Paste Reporting,2019,1.09,112,Declining
+Copy-Paste Reporting,2020,1.09,45,Declining
+Copy-Paste Reporting,2021,0.62,65,Declining
+Copy-Paste Reporting,2022,0.52,127,Declining
+Copy-Paste Reporting,2023,0.67,17,Declining
+Copy-Paste Reporting,2024,0.5,107,Declining
+Copy-Paste Reporting,2025,0.5,73,Declining

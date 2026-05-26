@@ -1,0 +1,29 @@
+skill,year,trend_score,job_postings_count,category,postings_yoy_pct,trend_score_3yr_avg,trend_velocity,velocity_label,postings_normalized
+LLMs/GenAI,2025,10.0,1486,Rising,0.0494,9.997,0.0239,Stable,97.85
+Prompt Engineering,2025,9.93,1517,Rising,0.1146,9.683,0.1004,Rising,100.0
+Machine Learning,2025,9.75,1367,Rising,0.0419,9.56,-0.0179,Stable,89.61
+MLOps,2025,9.44,1353,Rising,0.0713,9.32,0.0818,Rising,88.64
+Spark/PySpark,2025,9.3,1351,Rising,0.0321,9.143,0.0843,Rising,88.5
+Deep Learning,2025,9.27,1432,Rising,0.0354,9.543,0.1064,Rising,94.11
+Cloud (AWS/GCP),2025,9.26,1445,Rising,0.0448,9.513,0.0657,Rising,95.01
+Vector Databases,2025,9.22,1356,Rising,0.0585,9.333,0.0282,Stable,88.85
+Kubernetes,2025,9.06,1301,Rising,0.0851,8.647,0.1279,Rising,85.04
+Python,2025,9.0,1386,Rising,0.0871,9.227,-0.015,Stable,90.93
+dbt,2025,8.71,1293,Rising,-0.0077,8.853,0.0618,Rising,84.49
+Airflow,2025,8.44,1185,Rising,0.0034,8.583,0.0571,Rising,77.01
+SQL,2025,8.33,1217,Rising,0.1175,7.807,0.0911,Rising,79.22
+Tableau,2025,8.25,1188,Rising,0.1261,7.757,0.0736,Rising,77.22
+Power BI,2025,8.09,1189,Rising,0.0569,7.99,0.045,Stable,77.29
+A/B Testing,2025,8.08,1198,Rising,0.0231,8.117,0.0368,Stable,77.91
+Statistics,2025,7.74,1239,Rising,0.084,7.777,0.0686,Rising,80.75
+R,2025,6.15,892,Stable,-0.1107,6.59,-0.0064,Stable,56.72
+Basic SEO,2025,2.84,423,Declining,0.2478,2.51,-0.0989,Declining,24.24
+Excel (Basic),2025,2.61,393,Declining,-0.1267,2.867,-0.1732,Declining,22.16
+Manual Testing,2025,2.03,303,Declining,-0.2329,2.547,-0.0721,Declining,15.93
+Crystal Reports,2025,1.92,283,Declining,0.3163,1.827,0.0218,Stable,14.54
+Legacy VBA,2025,1.46,258,Declining,0.1835,1.49,-0.0871,Declining,12.81
+MS Access,2025,1.42,214,Declining,-0.2161,1.88,-0.0686,Declining,9.76
+Data Entry,2025,1.2,199,Declining,-0.2103,1.147,-0.0582,Declining,8.73
+Cold Calling,2025,1.07,122,Declining,-0.4049,1.28,-0.1682,Declining,3.39
+COBOL,2025,0.77,148,Declining,-0.2885,0.787,-0.0889,Declining,5.19
+Copy-Paste Reporting,2025,0.5,73,Declining,-0.3178,0.557,-0.1036,Declining,0.0

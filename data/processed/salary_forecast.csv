@@ -1,0 +1,289 @@
+job_role,year,salary_usd,type,growth_tier,salary_cagr
+AI Engineer,2019,141987.0,historical,Moderate Growth,0.0761
+AI Engineer,2020,154484.0,historical,Moderate Growth,0.0761
+AI Engineer,2021,169282.0,historical,Moderate Growth,0.0761
+AI Engineer,2022,193161.0,historical,Moderate Growth,0.0761
+AI Engineer,2023,231431.0,historical,Moderate Growth,0.0761
+AI Engineer,2024,204886.0,historical,Moderate Growth,0.0761
+AI Engineer,2025,256150.0,historical,Moderate Growth,0.0761
+AI Engineer,2026,265260.0,projected,Moderate Growth,0.0761
+AI Engineer,2027,283312.0,projected,Moderate Growth,0.0761
+AI Engineer,2028,301363.0,projected,Moderate Growth,0.0761
+AI Engineer,2029,319415.0,projected,Moderate Growth,0.0761
+AI Engineer,2030,337466.0,projected,Moderate Growth,0.0761
+Accountant,2019,68849.0,historical,Moderate Growth,0.0589
+Accountant,2020,70690.0,historical,Moderate Growth,0.0589
+Accountant,2021,73295.0,historical,Moderate Growth,0.0589
+Accountant,2022,77844.0,historical,Moderate Growth,0.0589
+Accountant,2023,81973.0,historical,Moderate Growth,0.0589
+Accountant,2024,91676.0,historical,Moderate Growth,0.0589
+Accountant,2025,97108.0,historical,Moderate Growth,0.0589
+Accountant,2026,99552.0,projected,Moderate Growth,0.0589
+Accountant,2027,104388.0,projected,Moderate Growth,0.0589
+Accountant,2028,109225.0,projected,Moderate Growth,0.0589
+Accountant,2029,114062.0,projected,Moderate Growth,0.0589
+Accountant,2030,118898.0,projected,Moderate Growth,0.0589
+BI Developer,2019,89502.0,historical,Moderate Growth,0.0454
+BI Developer,2020,94991.0,historical,Moderate Growth,0.0454
+BI Developer,2021,91430.0,historical,Moderate Growth,0.0454
+BI Developer,2022,97844.0,historical,Moderate Growth,0.0454
+BI Developer,2023,86433.0,historical,Moderate Growth,0.0454
+BI Developer,2024,111733.0,historical,Moderate Growth,0.0454
+BI Developer,2025,98003.0,historical,Moderate Growth,0.0454
+BI Developer,2026,103418.0,projected,Moderate Growth,0.0454
+BI Developer,2027,105346.0,projected,Moderate Growth,0.0454
+BI Developer,2028,107274.0,projected,Moderate Growth,0.0454
+BI Developer,2029,109203.0,projected,Moderate Growth,0.0454
+BI Developer,2030,111131.0,projected,Moderate Growth,0.0454
+Business Analyst,2019,70698.0,historical,Moderate Growth,0.072
+Business Analyst,2020,78569.0,historical,Moderate Growth,0.072
+Business Analyst,2021,80857.0,historical,Moderate Growth,0.072
+Business Analyst,2022,81051.0,historical,Moderate Growth,0.072
+Business Analyst,2023,87644.0,historical,Moderate Growth,0.072
+Business Analyst,2024,100083.0,historical,Moderate Growth,0.072
+Business Analyst,2025,93649.0,historical,Moderate Growth,0.072
+Business Analyst,2026,101603.0,projected,Moderate Growth,0.072
+Business Analyst,2027,105841.0,projected,Moderate Growth,0.072
+Business Analyst,2028,110079.0,projected,Moderate Growth,0.072
+Business Analyst,2029,114317.0,projected,Moderate Growth,0.072
+Business Analyst,2030,118555.0,projected,Moderate Growth,0.072
+Cloud Architect,2019,139495.0,historical,Moderate Growth,0.0635
+Cloud Architect,2020,148487.0,historical,Moderate Growth,0.0635
+Cloud Architect,2021,148004.0,historical,Moderate Growth,0.0635
+Cloud Architect,2022,156599.0,historical,Moderate Growth,0.0635
+Cloud Architect,2023,149406.0,historical,Moderate Growth,0.0635
+Cloud Architect,2024,189751.0,historical,Moderate Growth,0.0635
+Cloud Architect,2025,164741.0,historical,Moderate Growth,0.0635
+Cloud Architect,2026,179450.0,projected,Moderate Growth,0.0635
+Cloud Architect,2027,185153.0,projected,Moderate Growth,0.0635
+Cloud Architect,2028,190855.0,projected,Moderate Growth,0.0635
+Cloud Architect,2029,196557.0,projected,Moderate Growth,0.0635
+Cloud Architect,2030,202260.0,projected,Moderate Growth,0.0635
+Content Strategist,2019,65196.0,historical,Moderate Growth,0.0492
+Content Strategist,2020,62675.0,historical,Moderate Growth,0.0492
+Content Strategist,2021,74173.0,historical,Moderate Growth,0.0492
+Content Strategist,2022,72474.0,historical,Moderate Growth,0.0492
+Content Strategist,2023,65094.0,historical,Moderate Growth,0.0492
+Content Strategist,2024,82893.0,historical,Moderate Growth,0.0492
+Content Strategist,2025,85135.0,historical,Moderate Growth,0.0492
+Content Strategist,2026,85545.0,projected,Moderate Growth,0.0492
+Content Strategist,2027,88801.0,projected,Moderate Growth,0.0492
+Content Strategist,2028,92057.0,projected,Moderate Growth,0.0492
+Content Strategist,2029,95314.0,projected,Moderate Growth,0.0492
+Content Strategist,2030,98570.0,projected,Moderate Growth,0.0492
+Data Analyst,2019,67229.0,historical,Moderate Growth,0.0674
+Data Analyst,2020,73872.0,historical,Moderate Growth,0.0674
+Data Analyst,2021,77003.0,historical,Moderate Growth,0.0674
+Data Analyst,2022,89565.0,historical,Moderate Growth,0.0674
+Data Analyst,2023,88979.0,historical,Moderate Growth,0.0674
+Data Analyst,2024,93161.0,historical,Moderate Growth,0.0674
+Data Analyst,2025,84878.0,historical,Moderate Growth,0.0674
+Data Analyst,2026,96884.0,projected,Moderate Growth,0.0674
+Data Analyst,2027,100580.0,projected,Moderate Growth,0.0674
+Data Analyst,2028,104277.0,projected,Moderate Growth,0.0674
+Data Analyst,2029,107973.0,projected,Moderate Growth,0.0674
+Data Analyst,2030,111670.0,projected,Moderate Growth,0.0674
+Data Engineer,2019,116588.0,historical,High Growth,0.1045
+Data Engineer,2020,126028.0,historical,High Growth,0.1045
+Data Engineer,2021,150237.0,historical,High Growth,0.1045
+Data Engineer,2022,171058.0,historical,High Growth,0.1045
+Data Engineer,2023,158259.0,historical,High Growth,0.1045
+Data Engineer,2024,191608.0,historical,High Growth,0.1045
+Data Engineer,2025,230255.0,historical,High Growth,0.1045
+Data Engineer,2026,234351.0,projected,High Growth,0.1045
+Data Engineer,2027,254164.0,projected,High Growth,0.1045
+Data Engineer,2028,274320.0,projected,High Growth,0.1045
+Data Engineer,2029,294818.0,projected,High Growth,0.1045
+Data Engineer,2030,315660.0,projected,High Growth,0.1045
+Data Scientist,2019,109753.0,historical,High Growth,0.0881
+Data Scientist,2020,119451.0,historical,High Growth,0.0881
+Data Scientist,2021,127673.0,historical,High Growth,0.0881
+Data Scientist,2022,149645.0,historical,High Growth,0.0881
+Data Scientist,2023,154919.0,historical,High Growth,0.0881
+Data Scientist,2024,167401.0,historical,High Growth,0.0881
+Data Scientist,2025,164947.0,historical,High Growth,0.0881
+Data Scientist,2026,185049.0,projected,High Growth,0.0881
+Data Scientist,2027,197399.0,projected,High Growth,0.0881
+Data Scientist,2028,209955.0,projected,High Growth,0.0881
+Data Scientist,2029,222718.0,projected,High Growth,0.0881
+Data Scientist,2030,235687.0,projected,High Growth,0.0881
+DevOps Engineer,2019,113009.0,historical,Moderate Growth,0.061
+DevOps Engineer,2020,119966.0,historical,Moderate Growth,0.061
+DevOps Engineer,2021,128203.0,historical,Moderate Growth,0.061
+DevOps Engineer,2022,133824.0,historical,Moderate Growth,0.061
+DevOps Engineer,2023,117496.0,historical,Moderate Growth,0.061
+DevOps Engineer,2024,151937.0,historical,Moderate Growth,0.061
+DevOps Engineer,2025,144632.0,historical,Moderate Growth,0.061
+DevOps Engineer,2026,151024.0,projected,Moderate Growth,0.061
+DevOps Engineer,2027,156314.0,projected,Moderate Growth,0.061
+DevOps Engineer,2028,161603.0,projected,Moderate Growth,0.061
+DevOps Engineer,2029,166893.0,projected,Moderate Growth,0.061
+DevOps Engineer,2030,172182.0,projected,Moderate Growth,0.061
+Digital Marketer,2019,68545.0,historical,Moderate Growth,0.0445
+Digital Marketer,2020,66120.0,historical,Moderate Growth,0.0445
+Digital Marketer,2021,67810.0,historical,Moderate Growth,0.0445
+Digital Marketer,2022,80012.0,historical,Moderate Growth,0.0445
+Digital Marketer,2023,69077.0,historical,Moderate Growth,0.0445
+Digital Marketer,2024,85207.0,historical,Moderate Growth,0.0445
+Digital Marketer,2025,83195.0,historical,Moderate Growth,0.0445
+Digital Marketer,2026,86194.0,projected,Moderate Growth,0.0445
+Digital Marketer,2027,89172.0,projected,Moderate Growth,0.0445
+Digital Marketer,2028,92150.0,projected,Moderate Growth,0.0445
+Digital Marketer,2029,95129.0,projected,Moderate Growth,0.0445
+Digital Marketer,2030,98107.0,projected,Moderate Growth,0.0445
+Excel Analyst,2019,57615.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2020,54742.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2021,59578.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2022,60428.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2023,56426.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2024,55526.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2025,57222.0,historical,Stagnant/Declining,-0.0074
+Excel Analyst,2026,56683.0,projected,Stagnant/Declining,-0.0074
+Excel Analyst,2027,56300.0,projected,Stagnant/Declining,-0.0074
+Excel Analyst,2028,55919.0,projected,Stagnant/Declining,-0.0074
+Excel Analyst,2029,55538.0,projected,Stagnant/Declining,-0.0074
+Excel Analyst,2030,55159.0,projected,Stagnant/Declining,-0.0074
+Financial Analyst,2019,71889.0,historical,Moderate Growth,0.0709
+Financial Analyst,2020,84820.0,historical,Moderate Growth,0.0709
+Financial Analyst,2021,88253.0,historical,Moderate Growth,0.0709
+Financial Analyst,2022,96149.0,historical,Moderate Growth,0.0709
+Financial Analyst,2023,95561.0,historical,Moderate Growth,0.0709
+Financial Analyst,2024,101254.0,historical,Moderate Growth,0.0709
+Financial Analyst,2025,122505.0,historical,Moderate Growth,0.0709
+Financial Analyst,2026,121779.0,projected,Moderate Growth,0.0709
+Financial Analyst,2027,128637.0,projected,Moderate Growth,0.0709
+Financial Analyst,2028,135495.0,projected,Moderate Growth,0.0709
+Financial Analyst,2029,142353.0,projected,Moderate Growth,0.0709
+Financial Analyst,2030,149211.0,projected,Moderate Growth,0.0709
+HR Analyst,2019,68621.0,historical,Slow Growth,0.015
+HR Analyst,2020,70578.0,historical,Slow Growth,0.015
+HR Analyst,2021,69620.0,historical,Slow Growth,0.015
+HR Analyst,2022,77605.0,historical,Slow Growth,0.015
+HR Analyst,2023,78834.0,historical,Slow Growth,0.015
+HR Analyst,2024,73919.0,historical,Slow Growth,0.015
+HR Analyst,2025,93935.0,historical,Slow Growth,0.015
+HR Analyst,2026,89279.0,projected,Slow Growth,0.015
+HR Analyst,2027,92558.0,projected,Slow Growth,0.015
+HR Analyst,2028,95838.0,projected,Slow Growth,0.015
+HR Analyst,2029,99118.0,projected,Slow Growth,0.015
+HR Analyst,2030,102398.0,projected,Slow Growth,0.015
+IT Support Specialist,2019,55324.0,historical,Slow Growth,0.0167
+IT Support Specialist,2020,52037.0,historical,Slow Growth,0.0167
+IT Support Specialist,2021,60039.0,historical,Slow Growth,0.0167
+IT Support Specialist,2022,58799.0,historical,Slow Growth,0.0167
+IT Support Specialist,2023,55809.0,historical,Slow Growth,0.0167
+IT Support Specialist,2024,60113.0,historical,Slow Growth,0.0167
+IT Support Specialist,2025,56934.0,historical,Slow Growth,0.0167
+IT Support Specialist,2026,59401.0,projected,Slow Growth,0.0167
+IT Support Specialist,2027,59999.0,projected,Slow Growth,0.0167
+IT Support Specialist,2028,60598.0,projected,Slow Growth,0.0167
+IT Support Specialist,2029,61196.0,projected,Slow Growth,0.0167
+IT Support Specialist,2030,61794.0,projected,Slow Growth,0.0167
+Machine Learning Engineer,2019,135994.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2020,150538.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2021,162120.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2022,183284.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2023,210226.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2024,193257.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2025,204188.0,historical,Moderate Growth,0.0728
+Machine Learning Engineer,2026,225390.0,projected,Moderate Growth,0.0728
+Machine Learning Engineer,2027,237466.0,projected,Moderate Growth,0.0728
+Machine Learning Engineer,2028,249542.0,projected,Moderate Growth,0.0728
+Machine Learning Engineer,2029,261618.0,projected,Moderate Growth,0.0728
+Machine Learning Engineer,2030,273694.0,projected,Moderate Growth,0.0728
+Operations Analyst,2019,67261.0,historical,Moderate Growth,0.0783
+Operations Analyst,2020,74104.0,historical,Moderate Growth,0.0783
+Operations Analyst,2021,80987.0,historical,Moderate Growth,0.0783
+Operations Analyst,2022,89891.0,historical,Moderate Growth,0.0783
+Operations Analyst,2023,80018.0,historical,Moderate Growth,0.0783
+Operations Analyst,2024,98071.0,historical,Moderate Growth,0.0783
+Operations Analyst,2025,94331.0,historical,Moderate Growth,0.0783
+Operations Analyst,2026,101834.0,projected,Moderate Growth,0.0783
+Operations Analyst,2027,106412.0,projected,Moderate Growth,0.0783
+Operations Analyst,2028,110989.0,projected,Moderate Growth,0.0783
+Operations Analyst,2029,115567.0,projected,Moderate Growth,0.0783
+Operations Analyst,2030,120145.0,projected,Moderate Growth,0.0783
+Product Manager,2019,112757.0,historical,Moderate Growth,0.0733
+Product Manager,2020,117479.0,historical,Moderate Growth,0.0733
+Product Manager,2021,117957.0,historical,Moderate Growth,0.0733
+Product Manager,2022,127077.0,historical,Moderate Growth,0.0733
+Product Manager,2023,130956.0,historical,Moderate Growth,0.0733
+Product Manager,2024,160602.0,historical,Moderate Growth,0.0733
+Product Manager,2025,175794.0,historical,Moderate Growth,0.0733
+Product Manager,2026,175854.0,projected,Moderate Growth,0.0733
+Product Manager,2027,186152.0,projected,Moderate Growth,0.0733
+Product Manager,2028,196451.0,projected,Moderate Growth,0.0733
+Product Manager,2029,206749.0,projected,Moderate Growth,0.0733
+Product Manager,2030,217048.0,projected,Moderate Growth,0.0733
+QA Engineer,2019,81002.0,historical,Slow Growth,0.0194
+QA Engineer,2020,83710.0,historical,Slow Growth,0.0194
+QA Engineer,2021,91663.0,historical,Slow Growth,0.0194
+QA Engineer,2022,81773.0,historical,Slow Growth,0.0194
+QA Engineer,2023,82912.0,historical,Slow Growth,0.0194
+QA Engineer,2024,89163.0,historical,Slow Growth,0.0194
+QA Engineer,2025,81283.0,historical,Slow Growth,0.0194
+QA Engineer,2026,84929.0,projected,Slow Growth,0.0194
+QA Engineer,2027,85036.0,projected,Slow Growth,0.0194
+QA Engineer,2028,85143.0,projected,Slow Growth,0.0194
+QA Engineer,2029,85250.0,projected,Slow Growth,0.0194
+QA Engineer,2030,85357.0,projected,Slow Growth,0.0194
+SEO Specialist,2019,62646.0,historical,Moderate Growth,0.0467
+SEO Specialist,2020,60013.0,historical,Moderate Growth,0.0467
+SEO Specialist,2021,62085.0,historical,Moderate Growth,0.0467
+SEO Specialist,2022,65110.0,historical,Moderate Growth,0.0467
+SEO Specialist,2023,64273.0,historical,Moderate Growth,0.0467
+SEO Specialist,2024,78719.0,historical,Moderate Growth,0.0467
+SEO Specialist,2025,79368.0,historical,Moderate Growth,0.0467
+SEO Specialist,2026,80283.0,projected,Moderate Growth,0.0467
+SEO Specialist,2027,83489.0,projected,Moderate Growth,0.0467
+SEO Specialist,2028,86695.0,projected,Moderate Growth,0.0467
+SEO Specialist,2029,89901.0,projected,Moderate Growth,0.0467
+SEO Specialist,2030,93107.0,projected,Moderate Growth,0.0467
+SQL Developer,2019,78405.0,historical,Moderate Growth,0.0651
+SQL Developer,2020,81889.0,historical,Moderate Growth,0.0651
+SQL Developer,2021,79574.0,historical,Moderate Growth,0.0651
+SQL Developer,2022,90732.0,historical,Moderate Growth,0.0651
+SQL Developer,2023,103501.0,historical,Moderate Growth,0.0651
+SQL Developer,2024,107497.0,historical,Moderate Growth,0.0651
+SQL Developer,2025,82672.0,historical,Moderate Growth,0.0651
+SQL Developer,2026,101745.0,projected,Moderate Growth,0.0651
+SQL Developer,2027,104886.0,projected,Moderate Growth,0.0651
+SQL Developer,2028,108027.0,projected,Moderate Growth,0.0651
+SQL Developer,2029,111167.0,projected,Moderate Growth,0.0651
+SQL Developer,2030,114308.0,projected,Moderate Growth,0.0651
+Software Developer,2019,108111.0,historical,Moderate Growth,0.044
+Software Developer,2020,109157.0,historical,Moderate Growth,0.044
+Software Developer,2021,112117.0,historical,Moderate Growth,0.044
+Software Developer,2022,127298.0,historical,Moderate Growth,0.044
+Software Developer,2023,128800.0,historical,Moderate Growth,0.044
+Software Developer,2024,134098.0,historical,Moderate Growth,0.044
+Software Developer,2025,135777.0,historical,Moderate Growth,0.044
+Software Developer,2026,143560.0,projected,Moderate Growth,0.044
+Software Developer,2027,148902.0,projected,Moderate Growth,0.044
+Software Developer,2028,154243.0,projected,Moderate Growth,0.044
+Software Developer,2029,159585.0,projected,Moderate Growth,0.044
+Software Developer,2030,164926.0,projected,Moderate Growth,0.044
+Statistician,2019,83241.0,historical,Moderate Growth,0.0662
+Statistician,2020,94875.0,historical,Moderate Growth,0.0662
+Statistician,2021,95170.0,historical,Moderate Growth,0.0662
+Statistician,2022,106830.0,historical,Moderate Growth,0.0662
+Statistician,2023,106679.0,historical,Moderate Growth,0.0662
+Statistician,2024,114699.0,historical,Moderate Growth,0.0662
+Statistician,2025,115150.0,historical,Moderate Growth,0.0662
+Statistician,2026,123361.0,projected,Moderate Growth,0.0662
+Statistician,2027,128607.0,projected,Moderate Growth,0.0662
+Statistician,2028,133853.0,projected,Moderate Growth,0.0662
+Statistician,2029,139099.0,projected,Moderate Growth,0.0662
+Statistician,2030,144345.0,projected,Moderate Growth,0.0662
+Supply Chain Analyst,2019,70930.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2020,76892.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2021,75976.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2022,78946.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2023,82309.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2024,92664.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2025,90695.0,historical,Moderate Growth,0.0549
+Supply Chain Analyst,2026,95083.0,projected,Moderate Growth,0.0549
+Supply Chain Analyst,2027,98554.0,projected,Moderate Growth,0.0549
+Supply Chain Analyst,2028,102024.0,projected,Moderate Growth,0.0549
+Supply Chain Analyst,2029,105495.0,projected,Moderate Growth,0.0549
+Supply Chain Analyst,2030,108965.0,projected,Moderate Growth,0.0549

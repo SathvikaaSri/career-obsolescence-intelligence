@@ -1,0 +1,169 @@
+job_role,year,avg_salary_usd,growth_rate,base_automation_risk
+Data Analyst,2019,67229,0.0572,0.35
+Data Analyst,2020,73872,0.0537,0.35
+Data Analyst,2021,77003,0.0522,0.35
+Data Analyst,2022,89565,0.0657,0.35
+Data Analyst,2023,88979,0.0533,0.35
+Data Analyst,2024,93161,0.0615,0.35
+Data Analyst,2025,84878,0.0224,0.35
+Business Analyst,2019,70698,0.0691,0.3
+Business Analyst,2020,78569,0.0344,0.3
+Business Analyst,2021,80857,0.0539,0.3
+Business Analyst,2022,81051,0.0308,0.3
+Business Analyst,2023,87644,0.0352,0.3
+Business Analyst,2024,100083,0.0561,0.3
+Business Analyst,2025,93649,0.0302,0.3
+Data Scientist,2019,109753,0.0771,0.15
+Data Scientist,2020,119451,0.0776,0.15
+Data Scientist,2021,127673,0.0829,0.15
+Data Scientist,2022,149645,0.1067,0.15
+Data Scientist,2023,154919,0.0871,0.15
+Data Scientist,2024,167401,0.088,0.15
+Data Scientist,2025,164947,0.0756,0.15
+Machine Learning Engineer,2019,135994,0.1092,0.1
+Machine Learning Engineer,2020,150538,0.107,0.1
+Machine Learning Engineer,2021,162120,0.1027,0.1
+Machine Learning Engineer,2022,183284,0.115,0.1
+Machine Learning Engineer,2023,210226,0.1112,0.1
+Machine Learning Engineer,2024,193257,0.0727,0.1
+Machine Learning Engineer,2025,204188,0.072,0.1
+Data Engineer,2019,116588,0.0992,0.18
+Data Engineer,2020,126028,0.0708,0.18
+Data Engineer,2021,150237,0.1043,0.18
+Data Engineer,2022,171058,0.1245,0.18
+Data Engineer,2023,158259,0.0744,0.18
+Data Engineer,2024,191608,0.0964,0.18
+Data Engineer,2025,230255,0.1167,0.18
+BI Developer,2019,89502,0.0648,0.38
+BI Developer,2020,94991,0.0698,0.38
+BI Developer,2021,91430,0.045,0.38
+BI Developer,2022,97844,0.0547,0.38
+BI Developer,2023,86433,0.0263,0.38
+BI Developer,2024,111733,0.0645,0.38
+BI Developer,2025,98003,0.0309,0.38
+SQL Developer,2019,78405,0.0297,0.42
+SQL Developer,2020,81889,0.0624,0.42
+SQL Developer,2021,79574,0.0353,0.42
+SQL Developer,2022,90732,0.0549,0.42
+SQL Developer,2023,103501,0.0693,0.42
+SQL Developer,2024,107497,0.0631,0.42
+SQL Developer,2025,82672,0.021,0.42
+Excel Analyst,2019,57615,0.0038,0.68
+Excel Analyst,2020,54742,0.0154,0.68
+Excel Analyst,2021,59578,-0.0098,0.68
+Excel Analyst,2022,60428,0.0004,0.68
+Excel Analyst,2023,56426,0.0048,0.68
+Excel Analyst,2024,55526,-0.0006,0.68
+Excel Analyst,2025,57222,0.0017,0.68
+Statistician,2019,83241,0.0343,0.22
+Statistician,2020,94875,0.043,0.22
+Statistician,2021,95170,0.0327,0.22
+Statistician,2022,106830,0.0491,0.22
+Statistician,2023,106679,0.0514,0.22
+Statistician,2024,114699,0.0531,0.22
+Statistician,2025,115150,0.0486,0.22
+AI Engineer,2019,141987,0.0831,0.08
+AI Engineer,2020,154484,0.0899,0.08
+AI Engineer,2021,169282,0.0709,0.08
+AI Engineer,2022,193161,0.1043,0.08
+AI Engineer,2023,231431,0.1235,0.08
+AI Engineer,2024,204886,0.0728,0.08
+AI Engineer,2025,264820,0.1082,0.08
+Cloud Architect,2019,139495,0.068,0.12
+Cloud Architect,2020,148487,0.0478,0.12
+Cloud Architect,2021,148004,0.0407,0.12
+Cloud Architect,2022,156599,0.0327,0.12
+Cloud Architect,2023,149406,0.0207,0.12
+Cloud Architect,2024,189751,0.0643,0.12
+Cloud Architect,2025,164741,0.0258,0.12
+DevOps Engineer,2019,113009,0.0392,0.2
+DevOps Engineer,2020,119966,0.0422,0.2
+DevOps Engineer,2021,128203,0.0597,0.2
+DevOps Engineer,2022,133824,0.0508,0.2
+DevOps Engineer,2023,117496,0.0203,0.2
+DevOps Engineer,2024,151937,0.0648,0.2
+DevOps Engineer,2025,144632,0.0367,0.2
+Software Developer,2019,108111,0.0688,0.25
+Software Developer,2020,109157,0.0656,0.25
+Software Developer,2021,112117,0.0367,0.25
+Software Developer,2022,127298,0.0638,0.25
+Software Developer,2023,128800,0.0481,0.25
+Software Developer,2024,134098,0.0595,0.25
+Software Developer,2025,135777,0.0472,0.25
+QA Engineer,2019,81002,0.007,0.55
+QA Engineer,2020,83710,-0.0049,0.55
+QA Engineer,2021,91663,0.0131,0.55
+QA Engineer,2022,81773,0.0019,0.55
+QA Engineer,2023,82912,0.0153,0.55
+QA Engineer,2024,89163,0.0141,0.55
+QA Engineer,2025,81283,-0.0097,0.55
+IT Support Specialist,2019,55324,0.0037,0.6
+IT Support Specialist,2020,52037,-0.0044,0.6
+IT Support Specialist,2021,60039,0.0195,0.6
+IT Support Specialist,2022,58799,0.0108,0.6
+IT Support Specialist,2023,55809,0.0172,0.6
+IT Support Specialist,2024,60113,0.014,0.6
+IT Support Specialist,2025,56934,-0.0032,0.6
+Digital Marketer,2019,68545,0.0576,0.45
+Digital Marketer,2020,66120,0.0203,0.45
+Digital Marketer,2021,67810,0.0295,0.45
+Digital Marketer,2022,80012,0.055,0.45
+Digital Marketer,2023,69077,0.0284,0.45
+Digital Marketer,2024,85207,0.0524,0.45
+Digital Marketer,2025,83195,0.0504,0.45
+Content Strategist,2019,65196,0.053,0.4
+Content Strategist,2020,62675,0.0234,0.4
+Content Strategist,2021,74173,0.0653,0.4
+Content Strategist,2022,72474,0.0462,0.4
+Content Strategist,2023,65094,0.0262,0.4
+Content Strategist,2024,82893,0.0486,0.4
+Content Strategist,2025,85135,0.0444,0.4
+SEO Specialist,2019,62646,0.0202,0.58
+SEO Specialist,2020,60013,0.0383,0.58
+SEO Specialist,2021,62085,0.0247,0.58
+SEO Specialist,2022,65110,0.0253,0.58
+SEO Specialist,2023,64273,0.0256,0.58
+SEO Specialist,2024,78719,0.0418,0.58
+SEO Specialist,2025,79368,0.0468,0.58
+Financial Analyst,2019,71889,0.0366,0.38
+Financial Analyst,2020,84820,0.0475,0.38
+Financial Analyst,2021,88253,0.0565,0.38
+Financial Analyst,2022,96149,0.064,0.38
+Financial Analyst,2023,95561,0.0484,0.38
+Financial Analyst,2024,101254,0.0432,0.38
+Financial Analyst,2025,122505,0.0686,0.38
+Accountant,2019,68849,0.0284,0.62
+Accountant,2020,70690,0.0545,0.62
+Accountant,2021,73295,0.0391,0.62
+Accountant,2022,77844,0.0458,0.62
+Accountant,2023,81973,0.0554,0.62
+Accountant,2024,91676,0.0575,0.62
+Accountant,2025,97108,0.0587,0.62
+HR Analyst,2019,68621,0.0659,0.44
+HR Analyst,2020,70578,0.0439,0.44
+HR Analyst,2021,69620,0.0583,0.44
+HR Analyst,2022,77605,0.055,0.44
+HR Analyst,2023,78834,0.0629,0.44
+HR Analyst,2024,73919,0.0234,0.44
+HR Analyst,2025,93935,0.069,0.44
+Supply Chain Analyst,2019,70930,0.0504,0.32
+Supply Chain Analyst,2020,76892,0.0277,0.32
+Supply Chain Analyst,2021,75976,0.0654,0.32
+Supply Chain Analyst,2022,78946,0.044,0.32
+Supply Chain Analyst,2023,82309,0.0286,0.32
+Supply Chain Analyst,2024,92664,0.0455,0.32
+Supply Chain Analyst,2025,90695,0.0366,0.32
+Operations Analyst,2019,67261,0.0641,0.4
+Operations Analyst,2020,74104,0.0633,0.4
+Operations Analyst,2021,80987,0.0529,0.4
+Operations Analyst,2022,89891,0.0698,0.4
+Operations Analyst,2023,80018,0.0269,0.4
+Operations Analyst,2024,98071,0.0561,0.4
+Operations Analyst,2025,94331,0.0438,0.4
+Product Manager,2019,112757,0.0201,0.18
+Product Manager,2020,117479,0.0289,0.18
+Product Manager,2021,117957,0.0307,0.18
+Product Manager,2022,127077,0.0347,0.18
+Product Manager,2023,130956,0.0264,0.18
+Product Manager,2024,160602,0.0663,0.18
+Product Manager,2025,175794,0.069,0.18

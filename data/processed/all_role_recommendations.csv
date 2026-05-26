@@ -1,0 +1,103 @@
+job_role,recommended_skill,skill_tier,category,salary_boost_usd,trend_score_2026,recommendation_score,rank,why
+Data Analyst,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Data Analyst,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Data Analyst,Tableau,📈 Rising,Rising,9500,7.98,50.42,3,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Data Analyst,Python,📈 Rising,Rising,18000,9.21,47.56,4,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Data Analyst,Power BI,📈 Rising,Rising,9000,8.09,46.73,5,"Recommended for: rapidly growing demand, high market demand"
+Business Analyst,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Business Analyst,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Business Analyst,A/B Testing,📈 Rising,Rising,13000,8.23,47.64,3,"Recommended for: rapidly growing demand, high market demand"
+Business Analyst,Power BI,📈 Rising,Rising,9000,8.09,46.73,4,"Recommended for: rapidly growing demand, high market demand"
+Business Analyst,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,5,Recommended for: strong role alignment
+Data Scientist,Deep Learning,🚀 Skyrocketing,Rising,28000,9.71,59.79,1,"Recommended for: rapidly growing demand, +$28,000 salary potential, accelerating trend, high market demand"
+Data Scientist,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Data Scientist,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,3,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Data Scientist,A/B Testing,📈 Rising,Rising,13000,8.23,47.64,4,"Recommended for: rapidly growing demand, high market demand"
+Data Scientist,Python,📈 Rising,Rising,18000,9.21,47.56,5,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Machine Learning Engineer,Deep Learning,🚀 Skyrocketing,Rising,28000,9.71,59.79,1,"Recommended for: rapidly growing demand, +$28,000 salary potential, accelerating trend, high market demand"
+Machine Learning Engineer,Cloud (AWS/GCP),🚀 Skyrocketing,Rising,22000,9.51,55.79,2,"Recommended for: rapidly growing demand, +$22,000 salary potential, accelerating trend, high market demand"
+Machine Learning Engineer,MLOps,🚀 Skyrocketing,Rising,24000,9.51,54.8,3,"Recommended for: rapidly growing demand, +$24,000 salary potential, accelerating trend, high market demand"
+Machine Learning Engineer,Spark/PySpark,🚀 Skyrocketing,Rising,20000,9.26,54.21,4,"Recommended for: rapidly growing demand, +$20,000 salary potential, accelerating trend, high market demand"
+Machine Learning Engineer,Python,📈 Rising,Rising,18000,9.21,47.56,5,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Data Engineer,Cloud (AWS/GCP),🚀 Skyrocketing,Rising,22000,9.51,55.79,1,"Recommended for: rapidly growing demand, +$22,000 salary potential, accelerating trend, high market demand"
+Data Engineer,Spark/PySpark,🚀 Skyrocketing,Rising,20000,9.26,54.21,2,"Recommended for: rapidly growing demand, +$20,000 salary potential, accelerating trend, high market demand"
+Data Engineer,dbt,🚀 Skyrocketing,Rising,15000,8.94,52.93,3,"Recommended for: rapidly growing demand, +$15,000 salary potential, accelerating trend, high market demand"
+Data Engineer,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,4,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Data Engineer,Airflow,📈 Rising,Rising,14000,8.67,49.82,5,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+BI Developer,dbt,🚀 Skyrocketing,Rising,15000,8.94,52.93,1,"Recommended for: rapidly growing demand, +$15,000 salary potential, accelerating trend, high market demand"
+BI Developer,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+BI Developer,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,3,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+BI Developer,Tableau,📈 Rising,Rising,9500,7.98,50.42,4,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+BI Developer,Power BI,📈 Rising,Rising,9000,8.09,46.73,5,"Recommended for: rapidly growing demand, high market demand"
+SQL Developer,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+SQL Developer,Crystal Reports,📉 Declining,Declining,500,1.8,9.61,2,Recommended for: strong role alignment
+SQL Developer,MS Access,📉 Declining,Declining,1000,1.72,1.91,3,Recommended for: strong role alignment
+SQL Developer,Legacy VBA,💀 Obsolete,Declining,500,1.29,0.9,4,Recommended for: strong role alignment
+Excel Analyst,Crystal Reports,📉 Declining,Declining,500,1.8,9.61,1,Recommended for: strong role alignment
+Excel Analyst,MS Access,📉 Declining,Declining,1000,1.72,1.91,2,Recommended for: strong role alignment
+Excel Analyst,Legacy VBA,💀 Obsolete,Declining,500,1.29,0.9,3,Recommended for: strong role alignment
+Excel Analyst,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,4,Recommended for: strong role alignment
+Statistician,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Statistician,A/B Testing,📈 Rising,Rising,13000,8.23,47.64,2,"Recommended for: rapidly growing demand, high market demand"
+Statistician,Python,📈 Rising,Rising,18000,9.21,47.56,3,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Statistician,R,➡️  Stable,Stable,7000,6.54,33.7,4,Recommended for: strong role alignment
+AI Engineer,Deep Learning,🚀 Skyrocketing,Rising,28000,9.71,59.79,1,"Recommended for: rapidly growing demand, +$28,000 salary potential, accelerating trend, high market demand"
+AI Engineer,Prompt Engineering,🚀 Skyrocketing,Rising,21000,9.93,58.55,2,"Recommended for: rapidly growing demand, +$21,000 salary potential, accelerating trend, high market demand"
+AI Engineer,MLOps,🚀 Skyrocketing,Rising,24000,9.51,54.8,3,"Recommended for: rapidly growing demand, +$24,000 salary potential, accelerating trend, high market demand"
+AI Engineer,LLMs/GenAI,🚀 Skyrocketing,Rising,30000,10.0,54.19,4,"Recommended for: rapidly growing demand, +$30,000 salary potential, high market demand"
+AI Engineer,Vector Databases,📈 Rising,Rising,22000,9.39,50.65,5,"Recommended for: rapidly growing demand, +$22,000 salary potential, high market demand"
+Cloud Architect,Kubernetes,🚀 Skyrocketing,Rising,19000,8.89,58.2,1,"Recommended for: rapidly growing demand, +$19,000 salary potential, accelerating trend, high market demand"
+Cloud Architect,Cloud (AWS/GCP),🚀 Skyrocketing,Rising,22000,9.51,55.79,2,"Recommended for: rapidly growing demand, +$22,000 salary potential, accelerating trend, high market demand"
+Cloud Architect,Python,📈 Rising,Rising,18000,9.21,47.56,3,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+DevOps Engineer,Kubernetes,🚀 Skyrocketing,Rising,19000,8.89,58.2,1,"Recommended for: rapidly growing demand, +$19,000 salary potential, accelerating trend, high market demand"
+DevOps Engineer,Cloud (AWS/GCP),🚀 Skyrocketing,Rising,22000,9.51,55.79,2,"Recommended for: rapidly growing demand, +$22,000 salary potential, accelerating trend, high market demand"
+DevOps Engineer,Airflow,📈 Rising,Rising,14000,8.67,49.82,3,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+DevOps Engineer,Python,📈 Rising,Rising,18000,9.21,47.56,4,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Software Developer,Kubernetes,🚀 Skyrocketing,Rising,19000,8.89,58.2,1,"Recommended for: rapidly growing demand, +$19,000 salary potential, accelerating trend, high market demand"
+Software Developer,Cloud (AWS/GCP),🚀 Skyrocketing,Rising,22000,9.51,55.79,2,"Recommended for: rapidly growing demand, +$22,000 salary potential, accelerating trend, high market demand"
+Software Developer,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,3,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Software Developer,Python,📈 Rising,Rising,18000,9.21,47.56,4,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+QA Engineer,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+QA Engineer,Python,📈 Rising,Rising,18000,9.21,47.56,2,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+QA Engineer,Manual Testing,📉 Declining,Declining,1000,2.29,3.3,3,Recommended for: strong role alignment
+IT Support Specialist,MS Access,📉 Declining,Declining,1000,1.72,1.91,1,Recommended for: strong role alignment
+IT Support Specialist,Legacy VBA,💀 Obsolete,Declining,500,1.29,0.9,2,Recommended for: strong role alignment
+IT Support Specialist,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,3,Recommended for: strong role alignment
+IT Support Specialist,Cold Calling,💀 Obsolete,Declining,0,0.96,0.0,4,Recommended for: strong role alignment
+Digital Marketer,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Digital Marketer,A/B Testing,📈 Rising,Rising,13000,8.23,47.64,2,"Recommended for: rapidly growing demand, high market demand"
+Digital Marketer,Basic SEO,📉 Declining,Declining,1500,2.32,2.72,3,Recommended for: strong role alignment
+Digital Marketer,Cold Calling,💀 Obsolete,Declining,0,0.96,0.0,4,Recommended for: strong role alignment
+Content Strategist,Prompt Engineering,🚀 Skyrocketing,Rising,21000,9.93,58.55,1,"Recommended for: rapidly growing demand, +$21,000 salary potential, accelerating trend, high market demand"
+Content Strategist,Basic SEO,📉 Declining,Declining,1500,2.32,2.72,2,Recommended for: strong role alignment
+Content Strategist,Cold Calling,💀 Obsolete,Declining,0,0.96,0.0,3,Recommended for: strong role alignment
+SEO Specialist,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+SEO Specialist,A/B Testing,📈 Rising,Rising,13000,8.23,47.64,2,"Recommended for: rapidly growing demand, high market demand"
+SEO Specialist,Basic SEO,📉 Declining,Declining,1500,2.32,2.72,3,Recommended for: strong role alignment
+Financial Analyst,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Financial Analyst,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Financial Analyst,Python,📈 Rising,Rising,18000,9.21,47.56,3,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Financial Analyst,Power BI,📈 Rising,Rising,9000,8.09,46.73,4,"Recommended for: rapidly growing demand, high market demand"
+Financial Analyst,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,5,Recommended for: strong role alignment
+Accountant,MS Access,📉 Declining,Declining,1000,1.72,1.91,1,Recommended for: strong role alignment
+Accountant,Legacy VBA,💀 Obsolete,Declining,500,1.29,0.9,2,Recommended for: strong role alignment
+Accountant,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,3,Recommended for: strong role alignment
+Accountant,Copy-Paste Reporting,💀 Obsolete,Declining,0,0.5,0.0,4,Recommended for: strong role alignment
+HR Analyst,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+HR Analyst,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+HR Analyst,Power BI,📈 Rising,Rising,9000,8.09,46.73,3,"Recommended for: rapidly growing demand, high market demand"
+HR Analyst,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,4,Recommended for: strong role alignment
+Supply Chain Analyst,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Supply Chain Analyst,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Supply Chain Analyst,Python,📈 Rising,Rising,18000,9.21,47.56,3,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
+Supply Chain Analyst,Power BI,📈 Rising,Rising,9000,8.09,46.73,4,"Recommended for: rapidly growing demand, high market demand"
+Supply Chain Analyst,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,5,Recommended for: strong role alignment
+Operations Analyst,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,1,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Operations Analyst,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Operations Analyst,Power BI,📈 Rising,Rising,9000,8.09,46.73,3,"Recommended for: rapidly growing demand, high market demand"
+Operations Analyst,Excel (Basic),💀 Obsolete,Declining,2000,2.51,0.0,4,Recommended for: strong role alignment
+Product Manager,LLMs/GenAI,🚀 Skyrocketing,Rising,30000,10.0,54.19,1,"Recommended for: rapidly growing demand, +$30,000 salary potential, high market demand"
+Product Manager,SQL,🚀 Skyrocketing,Rising,8000,8.06,51.38,2,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Product Manager,Statistics,🚀 Skyrocketing,Rising,11000,7.95,51.34,3,"Recommended for: rapidly growing demand, accelerating trend, high market demand"
+Product Manager,A/B Testing,📈 Rising,Rising,13000,8.23,47.64,4,"Recommended for: rapidly growing demand, high market demand"
+Product Manager,Python,📈 Rising,Rising,18000,9.21,47.56,5,"Recommended for: rapidly growing demand, +$18,000 salary potential, high market demand"
