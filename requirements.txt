@@ -5,7 +5,7 @@
 
 # Core Data
 pandas==2.2.2
-numpy==1.26.4
+numpy>=1.26.0
 
 # Machine Learning
 scikit-learn==1.4.2
