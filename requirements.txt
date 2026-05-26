@@ -4,11 +4,12 @@
 # ============================================================
 
 # Core Data
-pandas==2.2.2
+streamlit
+pandas>=2.0.0
 numpy>=1.26.0
 
 # Machine Learning
-scikit-learn==1.4.2
+scikit-learn>=1.3.0
 joblib==1.4.2
 
 # Visualization
