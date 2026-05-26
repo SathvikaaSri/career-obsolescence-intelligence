@@ -4,7 +4,7 @@
 
 ---
 
-##  Dashboard Preview
+#  Dashboard Preview
 
 | Page | Description |
 |------|-------------|
@@ -14,7 +14,7 @@
 |  Automation Risk | Risk heatmap, live calculator, feature importance |
 |  Recommendations | Personalised skill roadmap with salary & survival boost |
 
-##  Project Architecture
+# Project Architecture
 
 ```
 career_obsolescence_intelligence/
@@ -44,4 +44,3 @@ career_obsolescence_intelligence/
 Open your browser at **http://localhost:8501**
 
 
-*Built with Python · scikit-learn · Plotly · Streamlit*
