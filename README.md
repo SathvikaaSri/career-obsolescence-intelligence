@@ -1,4 +1,4 @@
-# 🧠 Career Obsolescence Intelligence System
+# Career Obsolescence Intelligence System
 
 > **AI-powered system that predicts dying skills, rising careers, automation probability, salary trajectories, and personalised future-proof recommendations.**
 
